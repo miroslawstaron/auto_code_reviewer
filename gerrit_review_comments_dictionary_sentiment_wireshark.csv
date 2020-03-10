@@ -1,0 +1,422 @@
+filename$LOC$class_value
+.github/workflows/close_pr.yml$"        comment: ""We do not accept PRs. Patches should be sumbitted through Gerrit. See https://www.wireshark.org/docs/wsdg_html_chunked/ChSrcContribute.html"""$0
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$1
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$1
+epan/dissectors/packet-afs.c$	}$0
+epan/dissectors/packet-afs.c$	}$0
+epan/dissectors/packet-afs.c$	}$0
+epan/dissectors/packet-rx.c$	char *version_type_$1
+epan/dissectors/packet-rx.c$	char *version_type_$1
+epan/dissectors/packet-rx.c$	char *version_type_$1
+epan/dissectors/packet-rx.c$	char *version_type_$0
+.github/workflows/windows.yml$      - name: set$0
+.github/workflows/windows.yml$      - name: set$0
+.github/workflows/windows.yml$          name: exe$0
+.github/workflows/windows.yml$          name: exe$0
+.github/workflows/ubuntu.yml$          name: debian$0
+.github/workflows/ubuntu.yml$          name: debian$0
+ui/qt/capture_file_dialog.cpp$                    .arg(ti_tm->tm_year + 1900, 4, QChar('0'))$0
+ui/qt/main_status_bar.cpp$    push_msg = QString::vasprintf(msg_format, ap)_$0
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$1
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
+ui/qt/widgets/syntax_line_edit.cpp$            char *dot = strchr(token_copy, '.')_$0
+ui/qt/widgets/syntax_line_edit.cpp$            char *dot = strchr(token_copy, '.')_$1
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" may have unexpected results. """$0
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" may have unexpected results. """$1
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
+ui/qt/widgets/syntax_line_edit.cpp$            header_field_info *hfinfo = proto_registrar_get_byalias(alias)_$0
+ui/qt/widgets/syntax_line_edit.cpp$            header_field_info *hfinfo = proto_registrar_get_byalias(alias)_$0
+epan/dissectors/packet-quic.c$ * Extension :$0
+.gitlab-ci.yml$  image: debian:stable$0
+.gitlab-ci.yml$    - apt-get update -qq$1
+.gitlab-ci.yml$    - dpkg-buildpackage -b --no-sign -Jauto > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign --no-pre-clean$0
+.gitlab-ci.yml$    - dpkg-buildpackage -b --no-sign -Jauto > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign --no-pre-clean$1
+tools/debian-setup.sh$"	lsb-release"""$0
+.gitlab-ci.yml$# https://about.gitlab.com/2016/10/12/automated-debian-package-build-with-gitlab-ci/$0
+.gitlab-ci.yml$build-debian-deb:$0
+.gitlab-ci.yml$    - apt-get install -y lsb-release libbrotli-dev$0
+.gitlab-ci.yml$"    - dpkg-buildpackage -b --no-sign -J$(nproc) > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign -J$(nproc) --no-pre-clean "$0
+epan/dissectors/packet-f5ethtrailer.c$                if (ver == 1 && ets_changed) {$0
+epan/dissectors/packet-f5ethtrailer.c$                if (ver == 1 && ets_changed) {$0
+ui/packet_range.c$        for(framenum = 1_ framenum <= range->cf->count_ framenum++) {$0
+ui/packet_range.c$        for(framenum = 1_ framenum <= range->cf->count_ framenum++) {$1
+ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$0
+ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$1
+ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$0
+ui/qt/export_dissection_dialog.cpp$    packet_range_group_box_.initRange(&print_args_.range, range)_$0
+ui/qt/export_dissection_dialog.cpp$    packet_range_group_box_.initRange(&print_args_.range, range)_$1
+ui/qt/main_window.cpp$        frame_data * fdata = 0_$0
+ui/qt/main_window.cpp$        frame_data * fdata = 0_$1
+ui/qt/main_window.cpp$QList<int> MainWindow::selectedRows(bool frameNum)$0
+ui/qt/main_window.cpp$QList<int> MainWindow::selectedRows(bool frameNum)$1
+ui/qt/main_window.h$    QList<int> selectedRows(bool frameNum = false)_$0
+ui/qt/main_window.h$    QList<int> selectedRows(bool frameNum = false)_$1
+ui/qt/main_window.ui$     <height>21</height>$0
+ui/qt/main_window.ui$     <height>21</height>$0
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$0
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$1
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$0
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$1
+ui/qt/models/packet_list_model.cpp$void PacketListModel::toggleFrameIgnore(const QModelIndexList &fm_indeces)$0
+ui/qt/models/packet_list_model.cpp$void PacketListModel::toggleFrameIgnore(const QModelIndexList &fm_indeces)$1
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$0
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$1
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$0
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$1
+ui/qt/models/packet_list_model.h$    void toggleFrameIgnore(const QModelIndexList &fm_indeces)_$0
+ui/qt/models/packet_list_model.h$    void toggleFrameIgnore(const QModelIndexList &fm_indeces)_$0
+ui/qt/packet_list.cpp$    if (!currentIndex().isValid()) return_$0
+ui/qt/packet_list.cpp$    if (!currentIndex().isValid()) return_$1
+ui/qt/packet_list.cpp$    if (!ca) return_$0
+ui/qt/packet_list.cpp$    if (!ca) return_$1
+ui/qt/packet_range_group_box.cpp$"        pr_ui_->selectedCapturedLabel->setText(""0"")_"$0
+ui/qt/packet_range_group_box.cpp$"        pr_ui_->selectedCapturedLabel->setText(""0"")_"$1
+ui/qt/packet_range_group_box.cpp$        pr_ui_->selectedCapturedLabel->setText(QString::number(range_->selection_range_cnt))_$0
+ui/qt/packet_range_group_box.cpp$        pr_ui_->selectedCapturedLabel->setText(QString::number(range_->selection_range_cnt))_$1
+ui/qt/print_dialog.cpp$    pd_ui_->rangeGroupBox->initRange(&print_args_.range, range)_$0
+ui/qt/print_dialog.cpp$    pd_ui_->rangeGroupBox->initRange(&print_args_.range, range)_$1
+ui/qt/proto_tree.cpp$$0
+ui/qt/proto_tree.cpp$$1
+ui/qt/packet_range_group_box.cpp$    if (!can_select) {$0
+ui/qt/models/related_packet_delegate.cpp$        MainWindow * mw = qobject_cast<MainWindow *>(wsApp->mainWindow())_$0
+ui/qt/models/related_packet_delegate.cpp$        MainWindow * mw = qobject_cast<MainWindow *>(wsApp->mainWindow())_$0
+ui/qt/packet_list.cpp$#include <QDebug>$0
+ui/qt/packet_list.cpp$#include <QDebug>$0
+epan/dissectors/packet-quic.c$#define FT_TIME_STAMP           0x02F5$0
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$0
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$1
+ui/qt/models/decode_as_delegate.cpp$        }$0
+ui/qt/models/decode_as_delegate.cpp$        }$1
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$0
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$1
+epan/dissectors/packet-quic.c$"            expert_add_info_format(pinfo, ti_ft, &ei_quic_ft_unknown, ""Unknown Frame Type %u"", (guint32)frame_type)_"$0
+epan/dissectors/packet-quic.c$"            expert_add_info_format(pinfo, ti_ft, &ei_quic_ft_unknown, ""Unknown Frame Type %u"", (guint32)frame_type)_"$1
+.github/workflows/macos.yml$      - name: mkdir$0
+.github/workflows/macos.yml$      - name: Cmake$0
+.github/workflows/macos.yml$      - name: Cmake$0
+.github/workflows/macos.yml$      - name: Cmake$0
+.github/workflows/macos.yml$      - name: Cmake$0
+epan/dissectors/packet-usb-audio.c$static gint dissect_ac_if_selector_unit(tvbuff_t *tvb, gint offset, packet_info *pinfo _U_, proto_tree *tree, usb_conv_info_t *usb_conv_infoi _U_)$0
+epan/dissectors/packet-usb-audio.c$    ti = proto_tree_add_item(tree, hf_ac_if_su_sourceids, tvb, offset, nrinpins, ENC_NA)_$1
+ui/qt/models/profile_model.cpp$            if (fentry.fileName().length() <= 0)$0
+epan/dissectors/packet-smb2.c$	if (!(val->frame_beg <= key->frame_key&&key->frame_key <= val->frame_end))$0
+epan/dissectors/packet-ftdi-mpsse.c$"        return g_strdup_printf(""%.12g GHz"", freq / 1e9)_"$0
+epan/dissectors/packet-ftdi-mpsse.c$    } else {$0
+epan/dissectors/packet-ftdi-mpsse.c$"        proto_item_append_text(item, "", TCK Max: %s (12 MHz master clock) or %s (60 MHz master clock)"", str_old, str)_"$0
+epan/dissectors/packet-ftdi-mpsse.c$            FT_UINT16, BASE_DEC, NULL, 0x0,$1
+epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0
+epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0
+epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0
+epan/dissectors/packet-ftdi-mpsse.c$    } else if (freq < 1e6)$0
+epan/dissectors/packet-ftdi-mpsse.c$        if (mpsse_info->chip != FTDI_CHIP_FT2232D)$0
+epan/dissectors/packet-ftdi-mpsse.c$        if (mpsse_info->chip != FTDI_CHIP_FT2232D)$0
+epan/dissectors/packet-ftdi-mpsse.c$"            proto_item_append_text(item, "", Clock: %s"", str)_"$0
+epan/dissectors/packet-ftdi-mpsse.c$        }$0
+epan/dissectors/packet-ftdi-mpsse.c$        case CMD_CLOCK_SET_DIVISOR: case 0x8F: case 0x9C: case 0x9D: case 0x9E:$0
+epan/dissectors/packet-ftdi-mpsse.c$            FT_UINT16, BASE_DEC, NULL, 0x0,$1
+epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0
+epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0
+epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0
+epan/dissectors/packet-ftdi-mpsse.c$"    {0x86, ""Set TCK/SK Divisor""},"$0
+epan/dissectors/packet-ftdi-mpsse.c$    if (freq >= 0 && freq < 1e3)$0
+ui/macosx/sparkle_bridge.m$// this doesn't work for me (gcc) here.$0
+ui/macosx/sparkle_bridge.m$// this doesn't work for me (gcc) here.$0
+ui/qt/models/packet_list_record.cpp$        read_failed_ = true_$0
+epan/dissectors/packet-usb-audio.c$            nrchannels = tvb_get_guint8(tvb,offset)_$0
+epan/dissectors/packet-usb-audio.c$            proto_tree_add_item(tree, hf_as_if_ft_nrchannels, tvb, offset, 1, ENC_LITTLE_ENDIAN)_$0
+epan/dissectors/packet-usb-audio.c$                break_$0
+epan/dissectors/packet-usb-audio.c$    }_$0
+epan/dissectors/packet-usb-audio.c$        case 3:$0
+epan/dissectors/packet-pfcp.c$    /* Oct 5 The Port Management Information field shall be encoded as an Octet String. */$0
+epan/dissectors/packet-pfcp.c$    /* Oct 5 The Port Management Information field shall be encoded as an Octet String. */$1
+epan/dissectors/packet-teap.c$dissect_pac_attr(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset)$0
+epan/dissectors/packet-teap.c$dissect_pac_attr(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset)$1
+epan/dissectors/packet-teap.c$dissect_teap_tlv_pac(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset, guint16 len)$0
+epan/dissectors/packet-teap.c$dissect_teap_tlv_pac(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset, guint16 len)$1
+epan/dissectors/packet-teap.c$"      val_to_str(type, teap_tlv_type_vals, ""Unknown""), type)_"$0
+epan/dissectors/packet-teap.c$"      val_to_str(type, teap_tlv_type_vals, ""Unknown""), type)_"$1
+epan/dissectors/packet-teap.c$      }$0
+epan/dissectors/packet-teap.c$      }$0
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
+tools/macos-setup-brew.sh$#  tab-width: 8$0
+tools/macos-setup-brew.sh$#  tab-width: 8$1
+epan/dissectors/packet-lacp.c$        } else {$0
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
+epan/dissectors/packet-lacp.c$        }$0
+epan/dissectors/packet-lacp.c$    }$0
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
+epan/dissectors/packet-lacp.c$        } else {$0
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
+epan/dissectors/packet-lacp.c$        }$0
+epan/dissectors/packet-lacp.c$    }$0
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
+epan/dissectors/packet-lacp.c$        } else {$0
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
+epan/dissectors/packet-lacp.c$        }$0
+epan/dissectors/packet-lacp.c$    }$0
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
+epan/dissectors/packet-lacp.c$        } else {$0
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
+epan/dissectors/packet-lacp.c$        }$0
+epan/dissectors/packet-lacp.c$    }$0
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
+epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0
+epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0
+epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
+epan/dissectors/packet-rtp.c$    offset += 2_$0
+epan/dissectors/packet-rtp.c$    offset += 2_$0
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
+epan/dissectors/packet-rtp.c$#include <epan/dissectors/packet-tcp.h>$0
+epan/dissectors/packet-rtp.c$    guint16 rtp_length = tvb_get_ntohs(tvb, offset)_ /* length field is at the beginning, 2 byes */$0
+tools/macos-setup-brew.sh$#brew install qt5$0
+epan/dissectors/packet-ieee80211.c$"	expert_add_info_format(pinfo, tree, &ei_ieee80211_wfa_60g_attr_len_invalid, ""Packet too short for 60G capability attribute"")_"$0
+epan/dissectors/packet-ieee80211.c$"	expert_add_info_format(pinfo, tree, &ei_ieee80211_wfa_60g_attr_len_invalid, ""Packet too short for 60G capability attribute"")_"$1
+epan/dissectors/packet-f5ethtrailer.c$/* some new text - git testing */$0
+epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0
+epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0
+epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0
+epan/dissectors/packet-smb2.c$ good:$0
+epan/dissectors/packet-quic.c$ * https://tools.ietf.org/html/draft-ietf-quic-transport-25$0
+epan/dissectors/packet-quic.c$ * https://tools.ietf.org/html/draft-ietf-quic-transport-25$1
+ui/software_update.c$const char *software_update_info() {$0
+ui/software_update.c$const char *software_update_info() {$1
+ui/software_update.c$const char *software_update_info() {$0
+ui/software_update.c$const char *software_update_info() {$1
+ui/software_update.c$const char *software_update_info() {$0
+ui/software_update.c$const char *software_update_info() {$1
+epan/dissectors/packet-lwres.c$                        format_text(wmem_packet_scope(), dname, dlen))_$1
+epan/dissectors/packet-lwres.c$                        format_text(wmem_packet_scope(), dname, dlen))_$1
+ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0
+ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0
+ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0
+epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST) || (eap_type == EAP_TYPE_TEAP) {$0
+epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST) || (eap_type == EAP_TYPE_TEAP) {$0
+epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST)) {$0
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$0
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
+epan/dissectors/packet-acdr.c$        } else {$0
+epan/dissectors/packet-acdr.c$            src_id = -1_$0
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$0
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
+epan/dissectors/packet-acdr.c$        } else {$0
+epan/dissectors/packet-acdr.c$            src_id = -1_$0
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$1
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$1
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$1
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$1
+epan/dissectors/packet-acdr.c$        } else {$1
+epan/dissectors/packet-acdr.c$            src_id = -1_$1
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$1
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$1
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$0
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
+epan/dissectors/packet-acdr.c$        } else {$0
+epan/dissectors/packet-acdr.c$            src_id = -1_$0
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$$1
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$$1
+epan/dissectors/packet-acdr.c$static void$0
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$            break_$0
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$$0
+epan/dissectors/packet-acdr.c$$1
+epan/dissectors/packet-acdr.c$#define PORT_AC_DR 925$0
+epan/dissectors/packet-acdr.c$#define PORT_AC_DR 925$0
+epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0
+epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0
+epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0
+epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$0
+epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$1
+epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$0
+epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0
+epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0
+epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0
+epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0
+epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0
+epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0
+epan/dissectors/packet-acdr.c$                                   10, &global_acdr_udp_port)_$0
+epan/dissectors/packet-acdr.c$                                   10, &global_acdr_udp_port)_$1
+epan/dissectors/packet-acdr.c$    //	static dissector_handle_t acdr_dissector_handle_$0
+epan/dissectors/packet-acdr.c$    //	static dissector_handle_t acdr_dissector_handle_$1
+epan/dissectors/packet-acdr.c$"                ""t38_udp"")_"$0
+epan/dissectors/packet-acdr.c$"                ""t38_udp"")_"$1
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$1
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
+epan/dissectors/packet-acdr.c$"        Udp_Dissector_Table = find_dissector_table(""udp.port"")_"$0
+epan/dissectors/packet-acdr.c$"        Udp_Dissector_Table = find_dissector_table(""udp.port"")_"$1
+epan/dissectors/packet-acdr.c$}$0
+epan/dissectors/packet-acdr.c$}$1
+epan/dissectors/packet-acdr.c$"    char *str = ""N/A""_"$0
+epan/dissectors/packet-acdr.c$"    char *str = ""N/A""_"$1
+epan/dissectors/packet-acdr.c$"        char *session_ext = """"_"$0
+epan/dissectors/packet-acdr.c$"        char *session_ext = """"_"$1
+epan/dissectors/packet-xml.c$"    col_set_str(pinfo->cinfo, COL_INFO, ""QOE Event"")_"$0
+epan/dissectors/packet-xml.c$"    col_set_str(pinfo->cinfo, COL_INFO, ""QOE Event"")_"$1
+epan/dissectors/packet-acdr.c$        case ACDR_T38:$0
+diameter/TGPP.xml$"  <avp name=""Serving-Node-Indication"" code=""714"" mandatory=""must"" vendor-bit=""must"" vendor-id=""TGPP"" may-encrypt=""no"">"$0
+diameter/TGPP.xml$"  <avp name=""Requested-Nodes"" code=""713"" mandatory=""must"" vendor-bit=""must"" vendor-id=""TGPP"" may-encrypt=""no"">"$0
+epan/dissectors/packet-tls-utils.c$"    { SSL_HND_QUIC_TP_MIN_ACK_DELAY, ""min_ack_delay"" },"$0
+epan/dissectors/packet-tls-utils.h$#define SSL_HND_QUIC_TP_MIN_ACK_DELAY                       56858$0
+debian/control$Recommends: libqt5multimedia5-plugins, libqt5svg5$0
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
+ui/qt/main_window_preferences_frame.ui$"    <layout class=""QHBoxLayout"" name=""horizontalLayout_4"">"$0
+ui/qt/main_window_preferences_frame.ui$"    <layout class=""QHBoxLayout"" name=""horizontalLayout_4"">"$1
+tools/rpm-setup.sh$# libqt5-linguist-devel: OpenSUSE$1
+tools/rpm-setup.sh$# libqt5-linguist-devel: OpenSUSE$0
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-linguist ||$0
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-linguist ||$0
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-qtmultimedia-devel ||$0
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-qtmultimedia-devel ||$0
+tpncp/tpncp.dat$Audiocodes TrunkPack Network Control Protocol (TPNCP) Version L7.20.208.001$0
+epan/dissectors/asn1/ldap/packet-ldap-template.c$"#define PNAME  ""LDAP: Lightweight Directory Access Protocol"""$0
+epan/dissectors/packet-canopen.c$$0
+epan/dissectors/packet-canopen.c$$0
+epan/dissectors/packet-tftp.c$  /* When exporting file object, build up list of data blocks here */$0
+epan/dissectors/packet-tftp.c$	gchar    *filename_$0
+epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0
+epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0
+epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0
+epan/dissectors/packet-tftp.c$          tftp_info->payload_data = (guint8 *)g_try_malloc((gsize)tftp_info->file_length)_$0
+epan/dissectors/packet-tftp.c$      payload_data_offset =$0
+ui/qt/packet_list.cpp$    action->setData(QVariant(true))_$0
+epan/dissectors/packet-tftp.c$  gboolean     is_simple_file_$0
+epan/dissectors/packet-tftp.c$static gboolean tftp_defragment = FALSE_$0
+epan/dissectors/packet-tftp.c$    is_fragmented = !(is_last_package && blocknum == 1)_$1
+epan/dissectors/packet-tftp.c$        tftpfd_head = fragment_add_seq_check(&tftp_reassembly_table, tvb, offset, pinfo,$0
+epan/dissectors/packet-tftp.c$      call_data_dissector(tvb_new_subset_remaining(tvb, offset), pinfo, tree)_$0
+epan/dissectors/packet-tftp.h$/* packet-tftp.h$0
+epan/dissectors/packet-rlc-nr.c$        dissector_handle_t protocol_handle_$0
+epan/dissectors/packet-rlc-nr.c$        dissector_handle_t protocol_handle_$0
+epan/dissectors/packet-amp.c$ * This program is free software_ you can redistribute it and/or modify$0
+epan/dissectors/packet-amp.c$#include <glib.h>$0
+epan/dissectors/packet-amp.c$add_value_time_to_tree(guint64 value, int len, proto_tree *tree, tvbuff_t *tvb, int offset, int hf_time_format)$0
+epan/dissectors/packet-amp.c$        amp_message_tree = proto_tree_add_subtree(amp_message_sub_tree, tvb, offset, -1,$0
+epan/dissectors/packet-amp.c$            amp_register_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0
+epan/dissectors/packet-amp.c$				(int) tmpObj.uint, ENC_ASCII|ENC_NA)_$0
+epan/dissectors/packet-amp.c$            amp_report_set_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0
+epan/dissectors/packet-amp.c$				    (int) tmpObj2.uint, ENC_ASCII|ENC_NA)_$0
+epan/dissectors/packet-amp.c$                amp_report_sub_tree = proto_item_add_subtree(amp_report_set_tree, ett_amp)_$0
+epan/dissectors/packet-amp.c$                amp_ari_sub_tree = proto_item_add_subtree(amp_report_tree, ett_amp)_$0
+epan/dissectors/packet-amp.c$                    proto_tree_add_uint(amp_ari_tree, hf_ari_nickname, tvb, offset, 1, ariFlags)_$0
+epan/dissectors/packet-amp.c$                amp_tnvc_tree = proto_tree_add_subtree(amp_tnvc_sub_tree, tvb, offset, -1,$0
+epan/dissectors/packet-amp.c$					(int) tmpObj3.uint-tmpObj4.size, 0x00)_$0
+epan/dissectors/packet-amp.c$            amp_control_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0
+epan/dissectors/packet-amp.c$            amp_table_sub_tree = proto_item_add_subtree(amp_items_tree, ett_amp)_$0
+epan/dissectors/packet-amp.c$ */$0
+epan/dissectors/packet-amp.c$        ampHeader = tvb_get_guint8(tvb, offset)_$0
+epan/dissectors/packet-amp.c$"        { ""Reserved"", ""tnvc.reserved"","$0
+epan/dissectors/packet-cfdp.c$    first_byte = tvb_get_guint8(tvb, offset)_$0
+epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0
+epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0
+epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0
+epan/dissectors/packet-lldp.c$"	dissector_add_uint(""ethertype"", ETHERTYPE_ONOS, lldp_handle)_ /* ONOS Ether Type */"$0
+epan/dissectors/packet-lldp.c$"	dissector_add_uint(""ethertype"", ETHERTYPE_ONOS, lldp_handle)_ /* ONOS Ether Type */"$1
+CMakeLists.txt$"	URL ""www.kernel.org"""$0
+CMakeLists.txt$"	URL ""www.kernel.org"""$1
+CMakeLists.txt$"	URL ""www.kernel.org"""$0
+CMakeLists.txt$"	URL ""www.kernel.org"""$0
+CMakeLists.txt$"	URL ""www.kernel.org"""$0
+CMakeLists.txt$"	URL ""www.kernel.org"""$1
+CMakeLists.txt$"	URL ""www.kernel.org"""$1
+CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0
+CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0
+CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0
+extcap.c$         * pipe has been closed before writing the to the pipe.$0
+epan/dissectors/packet-tnef.c$"        proto_item_append_text(prop_item, "" %s"", name_string)_"$0
+epan/dissectors/packet-tnef.c$"        proto_item_append_text(prop_item, "" %s"", name_string)_"$0
+epan/dissectors/packet-gsm_a_bssmap.c$    }$0
+epan/dissectors/packet-gsm_a_bssmap.c$    }$1
+epan/dissectors/packet-tnef.c$        tag_length = tvb_get_letohl(tvb, offset)_$0
+epan/dissectors/packet-tnef.c$        tag_length = tvb_get_letohl(tvb, offset)_$0
+epan/dissectors/packet-tnef.c$          proto_tree_add_item(tag_tree, hf_tnef_property_padding, tvb, offset, padding, ENC_NA)_$0
+epan/dissectors/packet-tnef.c$          proto_tree_add_item(tag_tree, hf_tnef_property_padding, tvb, offset, padding, ENC_NA)_$0
+epan/dissectors/packet-tnef.c$      /* handle any specific tags here */$0
+plugins/epan/mate/mate_runtime.c$"				dbg_print (dbg_gog,1,dbg_facility,""analyze_gop: no gogkey_match: %s"",key)_"$0
+plugins/epan/mate/mate_runtime.c$"				dbg_print (dbg_gog,1,dbg_facility,""analyze_gop: no gogkey_match: %s"",key)_"$1
+ui/qt/interface_frame.cpp$"            ""</p><p>"""$0
+epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0
+epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0
+epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0
+epan/dissectors/packet-ber.c$    if ((len > 9) || ((len == 9) && (first != 0))) {$0
+epan/dissectors/packet-ber.c$        if ((len < 1) || (len > 9) || ((len == 9) && (first != 0))) {$0
+epan/dissectors/packet-ber.c$        if ((len < 1) || (len > 9) || ((len == 9) && (first != 0))) {$0
+epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0
+epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0
+epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0
+tools/macos-setup-brew.sh$brew install c-ares glib libgcrypt gnutls lua@5.1 cmake python nghttp2 snappy lz4 libxml2 ninja libmaxminddb doxygen libsmi spandsp brotli minizip zstd libilbc$1
+plugins/codecs/iLBC/CMakeLists.txt$set(CODEC_SRC$0
+plugins/codecs/iLBC/CMakeLists.txt$set(CODEC_SRC$0
+tools/debian-setup.sh$add_package ADDITIONAL_LIST libilbc-dev ||$0
+cmake/modules/FindILBC.cmake$"    ""${ILBC_HINTS}/include"""$0
+plugins/codecs/iLBC/iLBCdecode.c$    WebRtc_Word16 *dataIn  = (WebRtc_Word16 *)inputBytes_$0
+plugins/codecs/iLBC/iLBCdecode.c$    WebRtc_Word16 *dataIn  = (WebRtc_Word16 *)inputBytes_$0
+tools/debian-setup.sh$"	libilbc-dev"""$0
+tools/rpm-setup.sh$add_package ADDITIONAL_LIST ilbc-devel || add_package ADDITIONAL_LIST ilbc-devel ||$0
+plugins/codecs/iLBC/iLBCdecode.c$    //iLBC_decinst_t *ctx_$0
+plugins/codecs/iLBC/iLBCdecode.c$codec_iLBC_release(void *ctx _U_)$0
+plugins/codecs/iLBC/iLBCdecode.c$    WebRtcIlbcfix_DecoderFree(((ilbc_ctx_t *)ctx)->ilbc_ctx)_$0
+plugins/codecs/iLBC/iLBCdecode.c$codec_iLBC_decode(void *ctx _U_, const void *inputBytes, size_t inputBytesSize,$0
+plugins/codecs/iLBC/iLBCdecode.c$    } else if (0 == inputBytesSize%ILBC_PAYLOAD_LEN_30MS) {$0
+plugins/codecs/iLBC/iLBCdecode.c$    } else if (0 == inputBytesSize%ILBC_PAYLOAD_LEN_30MS) {$0
+epan/proto.c$		case ENC_TIME_CLASSIC_MAC_OS_SECS|ENC_LITTLE_ENDIAN:$0
+epan/proto.c$		case ENC_TIME_CLASSIC_MAC_OS_SECS|ENC_LITTLE_ENDIAN:$0
+packaging/rpm/wireshark.spec.in$* Sun Jan 19 2019 Jiri Novak$0
+ui/io_graph_item.c$#define get_io_graph_item_advanced_FT_xINT_unit(datatype)   \$0
+ui/io_graph_item.c$            //shift left to take the sign bit into account durch conversion$0
+ui/io_graph_item.c$            //shift left to take the sign bit into account durch conversion$0
+ui/io_graph_item.c$            //undo the left shift by dividing by 256$0
