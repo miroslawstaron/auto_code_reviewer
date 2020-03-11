@@ -1,422 +1,422 @@
-filename$LOC$class_value
-.github/workflows/close_pr.yml$"        comment: ""We do not accept PRs. Patches should be sumbitted through Gerrit. See https://www.wireshark.org/docs/wsdg_html_chunked/ChSrcContribute.html"""$0
-epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
-epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$1
-epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
-epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
-epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
-epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0
-epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0
-epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0
-epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0
-epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$1
-epan/dissectors/packet-afs.c$	}$0
-epan/dissectors/packet-afs.c$	}$0
-epan/dissectors/packet-afs.c$	}$0
-epan/dissectors/packet-rx.c$	char *version_type_$1
-epan/dissectors/packet-rx.c$	char *version_type_$1
-epan/dissectors/packet-rx.c$	char *version_type_$1
-epan/dissectors/packet-rx.c$	char *version_type_$0
-.github/workflows/windows.yml$      - name: set$0
-.github/workflows/windows.yml$      - name: set$0
-.github/workflows/windows.yml$          name: exe$0
-.github/workflows/windows.yml$          name: exe$0
-.github/workflows/ubuntu.yml$          name: debian$0
-.github/workflows/ubuntu.yml$          name: debian$0
-ui/qt/capture_file_dialog.cpp$                    .arg(ti_tm->tm_year + 1900, 4, QChar('0'))$0
-ui/qt/main_status_bar.cpp$    push_msg = QString::vasprintf(msg_format, ap)_$0
-ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
-ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
-ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
-ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$1
-ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0
-ui/qt/widgets/syntax_line_edit.cpp$            char *dot = strchr(token_copy, '.')_$0
-ui/qt/widgets/syntax_line_edit.cpp$            char *dot = strchr(token_copy, '.')_$1
-ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" may have unexpected results. """$0
-ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" may have unexpected results. """$1
-ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
-ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
-ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
-ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0
-ui/qt/widgets/syntax_line_edit.cpp$            header_field_info *hfinfo = proto_registrar_get_byalias(alias)_$0
-ui/qt/widgets/syntax_line_edit.cpp$            header_field_info *hfinfo = proto_registrar_get_byalias(alias)_$0
-epan/dissectors/packet-quic.c$ * Extension :$0
-.gitlab-ci.yml$  image: debian:stable$0
-.gitlab-ci.yml$    - apt-get update -qq$1
-.gitlab-ci.yml$    - dpkg-buildpackage -b --no-sign -Jauto > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign --no-pre-clean$0
-.gitlab-ci.yml$    - dpkg-buildpackage -b --no-sign -Jauto > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign --no-pre-clean$1
-tools/debian-setup.sh$"	lsb-release"""$0
-.gitlab-ci.yml$# https://about.gitlab.com/2016/10/12/automated-debian-package-build-with-gitlab-ci/$0
-.gitlab-ci.yml$build-debian-deb:$0
-.gitlab-ci.yml$    - apt-get install -y lsb-release libbrotli-dev$0
-.gitlab-ci.yml$"    - dpkg-buildpackage -b --no-sign -J$(nproc) > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign -J$(nproc) --no-pre-clean "$0
-epan/dissectors/packet-f5ethtrailer.c$                if (ver == 1 && ets_changed) {$0
-epan/dissectors/packet-f5ethtrailer.c$                if (ver == 1 && ets_changed) {$0
-ui/packet_range.c$        for(framenum = 1_ framenum <= range->cf->count_ framenum++) {$0
-ui/packet_range.c$        for(framenum = 1_ framenum <= range->cf->count_ framenum++) {$1
-ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$0
-ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$1
-ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$0
-ui/qt/export_dissection_dialog.cpp$    packet_range_group_box_.initRange(&print_args_.range, range)_$0
-ui/qt/export_dissection_dialog.cpp$    packet_range_group_box_.initRange(&print_args_.range, range)_$1
-ui/qt/main_window.cpp$        frame_data * fdata = 0_$0
-ui/qt/main_window.cpp$        frame_data * fdata = 0_$1
-ui/qt/main_window.cpp$QList<int> MainWindow::selectedRows(bool frameNum)$0
-ui/qt/main_window.cpp$QList<int> MainWindow::selectedRows(bool frameNum)$1
-ui/qt/main_window.h$    QList<int> selectedRows(bool frameNum = false)_$0
-ui/qt/main_window.h$    QList<int> selectedRows(bool frameNum = false)_$1
-ui/qt/main_window.ui$     <height>21</height>$0
-ui/qt/main_window.ui$     <height>21</height>$0
-ui/qt/models/packet_list_model.cpp$        if (!record) continue_$0
-ui/qt/models/packet_list_model.cpp$        if (!record) continue_$1
-ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$0
-ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$1
-ui/qt/models/packet_list_model.cpp$void PacketListModel::toggleFrameIgnore(const QModelIndexList &fm_indeces)$0
-ui/qt/models/packet_list_model.cpp$void PacketListModel::toggleFrameIgnore(const QModelIndexList &fm_indeces)$1
-ui/qt/models/packet_list_model.cpp$        if (!record) continue_$0
-ui/qt/models/packet_list_model.cpp$        if (!record) continue_$1
-ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$0
-ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$1
-ui/qt/models/packet_list_model.h$    void toggleFrameIgnore(const QModelIndexList &fm_indeces)_$0
-ui/qt/models/packet_list_model.h$    void toggleFrameIgnore(const QModelIndexList &fm_indeces)_$0
-ui/qt/packet_list.cpp$    if (!currentIndex().isValid()) return_$0
-ui/qt/packet_list.cpp$    if (!currentIndex().isValid()) return_$1
-ui/qt/packet_list.cpp$    if (!ca) return_$0
-ui/qt/packet_list.cpp$    if (!ca) return_$1
-ui/qt/packet_range_group_box.cpp$"        pr_ui_->selectedCapturedLabel->setText(""0"")_"$0
-ui/qt/packet_range_group_box.cpp$"        pr_ui_->selectedCapturedLabel->setText(""0"")_"$1
-ui/qt/packet_range_group_box.cpp$        pr_ui_->selectedCapturedLabel->setText(QString::number(range_->selection_range_cnt))_$0
-ui/qt/packet_range_group_box.cpp$        pr_ui_->selectedCapturedLabel->setText(QString::number(range_->selection_range_cnt))_$1
-ui/qt/print_dialog.cpp$    pd_ui_->rangeGroupBox->initRange(&print_args_.range, range)_$0
-ui/qt/print_dialog.cpp$    pd_ui_->rangeGroupBox->initRange(&print_args_.range, range)_$1
-ui/qt/proto_tree.cpp$$0
-ui/qt/proto_tree.cpp$$1
-ui/qt/packet_range_group_box.cpp$    if (!can_select) {$0
-ui/qt/models/related_packet_delegate.cpp$        MainWindow * mw = qobject_cast<MainWindow *>(wsApp->mainWindow())_$0
-ui/qt/models/related_packet_delegate.cpp$        MainWindow * mw = qobject_cast<MainWindow *>(wsApp->mainWindow())_$0
-ui/qt/packet_list.cpp$#include <QDebug>$0
-ui/qt/packet_list.cpp$#include <QDebug>$0
-epan/dissectors/packet-quic.c$#define FT_TIME_STAMP           0x02F5$0
-ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$0
-ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$1
-ui/qt/models/decode_as_delegate.cpp$        }$0
-ui/qt/models/decode_as_delegate.cpp$        }$1
-ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$0
-ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$1
-epan/dissectors/packet-quic.c$"            expert_add_info_format(pinfo, ti_ft, &ei_quic_ft_unknown, ""Unknown Frame Type %u"", (guint32)frame_type)_"$0
-epan/dissectors/packet-quic.c$"            expert_add_info_format(pinfo, ti_ft, &ei_quic_ft_unknown, ""Unknown Frame Type %u"", (guint32)frame_type)_"$1
-.github/workflows/macos.yml$      - name: mkdir$0
-.github/workflows/macos.yml$      - name: Cmake$0
-.github/workflows/macos.yml$      - name: Cmake$0
-.github/workflows/macos.yml$      - name: Cmake$0
-.github/workflows/macos.yml$      - name: Cmake$0
-epan/dissectors/packet-usb-audio.c$static gint dissect_ac_if_selector_unit(tvbuff_t *tvb, gint offset, packet_info *pinfo _U_, proto_tree *tree, usb_conv_info_t *usb_conv_infoi _U_)$0
-epan/dissectors/packet-usb-audio.c$    ti = proto_tree_add_item(tree, hf_ac_if_su_sourceids, tvb, offset, nrinpins, ENC_NA)_$1
-ui/qt/models/profile_model.cpp$            if (fentry.fileName().length() <= 0)$0
-epan/dissectors/packet-smb2.c$	if (!(val->frame_beg <= key->frame_key&&key->frame_key <= val->frame_end))$0
-epan/dissectors/packet-ftdi-mpsse.c$"        return g_strdup_printf(""%.12g GHz"", freq / 1e9)_"$0
-epan/dissectors/packet-ftdi-mpsse.c$    } else {$0
-epan/dissectors/packet-ftdi-mpsse.c$"        proto_item_append_text(item, "", TCK Max: %s (12 MHz master clock) or %s (60 MHz master clock)"", str_old, str)_"$0
-epan/dissectors/packet-ftdi-mpsse.c$            FT_UINT16, BASE_DEC, NULL, 0x0,$1
-epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0
-epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0
-epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0
-epan/dissectors/packet-ftdi-mpsse.c$    } else if (freq < 1e6)$0
-epan/dissectors/packet-ftdi-mpsse.c$        if (mpsse_info->chip != FTDI_CHIP_FT2232D)$0
-epan/dissectors/packet-ftdi-mpsse.c$        if (mpsse_info->chip != FTDI_CHIP_FT2232D)$0
-epan/dissectors/packet-ftdi-mpsse.c$"            proto_item_append_text(item, "", Clock: %s"", str)_"$0
-epan/dissectors/packet-ftdi-mpsse.c$        }$0
-epan/dissectors/packet-ftdi-mpsse.c$        case CMD_CLOCK_SET_DIVISOR: case 0x8F: case 0x9C: case 0x9D: case 0x9E:$0
-epan/dissectors/packet-ftdi-mpsse.c$            FT_UINT16, BASE_DEC, NULL, 0x0,$1
-epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0
-epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0
-epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0
-epan/dissectors/packet-ftdi-mpsse.c$"    {0x86, ""Set TCK/SK Divisor""},"$0
-epan/dissectors/packet-ftdi-mpsse.c$    if (freq >= 0 && freq < 1e3)$0
-ui/macosx/sparkle_bridge.m$// this doesn't work for me (gcc) here.$0
-ui/macosx/sparkle_bridge.m$// this doesn't work for me (gcc) here.$0
-ui/qt/models/packet_list_record.cpp$        read_failed_ = true_$0
-epan/dissectors/packet-usb-audio.c$            nrchannels = tvb_get_guint8(tvb,offset)_$0
-epan/dissectors/packet-usb-audio.c$            proto_tree_add_item(tree, hf_as_if_ft_nrchannels, tvb, offset, 1, ENC_LITTLE_ENDIAN)_$0
-epan/dissectors/packet-usb-audio.c$                break_$0
-epan/dissectors/packet-usb-audio.c$    }_$0
-epan/dissectors/packet-usb-audio.c$        case 3:$0
-epan/dissectors/packet-pfcp.c$    /* Oct 5 The Port Management Information field shall be encoded as an Octet String. */$0
-epan/dissectors/packet-pfcp.c$    /* Oct 5 The Port Management Information field shall be encoded as an Octet String. */$1
-epan/dissectors/packet-teap.c$dissect_pac_attr(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset)$0
-epan/dissectors/packet-teap.c$dissect_pac_attr(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset)$1
-epan/dissectors/packet-teap.c$dissect_teap_tlv_pac(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset, guint16 len)$0
-epan/dissectors/packet-teap.c$dissect_teap_tlv_pac(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset, guint16 len)$1
-epan/dissectors/packet-teap.c$"      val_to_str(type, teap_tlv_type_vals, ""Unknown""), type)_"$0
-epan/dissectors/packet-teap.c$"      val_to_str(type, teap_tlv_type_vals, ""Unknown""), type)_"$1
-epan/dissectors/packet-teap.c$      }$0
-epan/dissectors/packet-teap.c$      }$0
-tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
-tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
-tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
-tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0
-tools/macos-setup-brew.sh$#  tab-width: 8$0
-tools/macos-setup-brew.sh$#  tab-width: 8$1
-epan/dissectors/packet-lacp.c$        } else {$0
-epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
-epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
-epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
-epan/dissectors/packet-lacp.c$        }$0
-epan/dissectors/packet-lacp.c$    }$0
-epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
-epan/dissectors/packet-lacp.c$        } else {$0
-epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
-epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
-epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
-epan/dissectors/packet-lacp.c$        }$0
-epan/dissectors/packet-lacp.c$    }$0
-epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
-epan/dissectors/packet-lacp.c$        } else {$0
-epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
-epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
-epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
-epan/dissectors/packet-lacp.c$        }$0
-epan/dissectors/packet-lacp.c$    }$0
-epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
-epan/dissectors/packet-lacp.c$        } else {$0
-epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0
-epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0
-epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0
-epan/dissectors/packet-lacp.c$        }$0
-epan/dissectors/packet-lacp.c$    }$0
-epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0
-epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
-epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
-epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
-epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0
-epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0
-epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0
-epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
-epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0
-epan/dissectors/packet-rtp.c$    offset += 2_$0
-epan/dissectors/packet-rtp.c$    offset += 2_$0
-epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
-epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
-epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
-epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0
-epan/dissectors/packet-rtp.c$#include <epan/dissectors/packet-tcp.h>$0
-epan/dissectors/packet-rtp.c$    guint16 rtp_length = tvb_get_ntohs(tvb, offset)_ /* length field is at the beginning, 2 byes */$0
-tools/macos-setup-brew.sh$#brew install qt5$0
-epan/dissectors/packet-ieee80211.c$"	expert_add_info_format(pinfo, tree, &ei_ieee80211_wfa_60g_attr_len_invalid, ""Packet too short for 60G capability attribute"")_"$0
-epan/dissectors/packet-ieee80211.c$"	expert_add_info_format(pinfo, tree, &ei_ieee80211_wfa_60g_attr_len_invalid, ""Packet too short for 60G capability attribute"")_"$1
-epan/dissectors/packet-f5ethtrailer.c$/* some new text - git testing */$0
-epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0
-epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0
-epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0
-epan/dissectors/packet-smb2.c$ good:$0
-epan/dissectors/packet-quic.c$ * https://tools.ietf.org/html/draft-ietf-quic-transport-25$0
-epan/dissectors/packet-quic.c$ * https://tools.ietf.org/html/draft-ietf-quic-transport-25$1
-ui/software_update.c$const char *software_update_info() {$0
-ui/software_update.c$const char *software_update_info() {$1
-ui/software_update.c$const char *software_update_info() {$0
-ui/software_update.c$const char *software_update_info() {$1
-ui/software_update.c$const char *software_update_info() {$0
-ui/software_update.c$const char *software_update_info() {$1
-epan/dissectors/packet-lwres.c$                        format_text(wmem_packet_scope(), dname, dlen))_$1
-epan/dissectors/packet-lwres.c$                        format_text(wmem_packet_scope(), dname, dlen))_$1
-ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0
-ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0
-ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0
-epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST) || (eap_type == EAP_TYPE_TEAP) {$0
-epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST) || (eap_type == EAP_TYPE_TEAP) {$0
-epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST)) {$0
-epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0
-epan/dissectors/packet-acdr.c$            src_id = source_cid_$0
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
-epan/dissectors/packet-acdr.c$        } else {$0
-epan/dissectors/packet-acdr.c$            src_id = -1_$0
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
-epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0
-epan/dissectors/packet-acdr.c$            src_id = source_cid_$0
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
-epan/dissectors/packet-acdr.c$        } else {$0
-epan/dissectors/packet-acdr.c$            src_id = -1_$0
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
-epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$1
-epan/dissectors/packet-acdr.c$            src_id = source_cid_$1
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$1
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$1
-epan/dissectors/packet-acdr.c$        } else {$1
-epan/dissectors/packet-acdr.c$            src_id = -1_$1
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$1
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$1
-epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0
-epan/dissectors/packet-acdr.c$            src_id = source_cid_$0
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
-epan/dissectors/packet-acdr.c$        } else {$0
-epan/dissectors/packet-acdr.c$            src_id = -1_$0
-epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0
-epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$$1
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$$1
-epan/dissectors/packet-acdr.c$static void$0
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$            break_$0
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$$0
-epan/dissectors/packet-acdr.c$$1
-epan/dissectors/packet-acdr.c$#define PORT_AC_DR 925$0
-epan/dissectors/packet-acdr.c$#define PORT_AC_DR 925$0
-epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0
-epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0
-epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0
-epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$0
-epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$1
-epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$0
-epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0
-epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0
-epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0
-epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0
-epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0
-epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0
-epan/dissectors/packet-acdr.c$                                   10, &global_acdr_udp_port)_$0
-epan/dissectors/packet-acdr.c$                                   10, &global_acdr_udp_port)_$1
-epan/dissectors/packet-acdr.c$    //	static dissector_handle_t acdr_dissector_handle_$0
-epan/dissectors/packet-acdr.c$    //	static dissector_handle_t acdr_dissector_handle_$1
-epan/dissectors/packet-acdr.c$"                ""t38_udp"")_"$0
-epan/dissectors/packet-acdr.c$"                ""t38_udp"")_"$1
-epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
-epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
-epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
-epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$1
-epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0
-epan/dissectors/packet-acdr.c$"        Udp_Dissector_Table = find_dissector_table(""udp.port"")_"$0
-epan/dissectors/packet-acdr.c$"        Udp_Dissector_Table = find_dissector_table(""udp.port"")_"$1
-epan/dissectors/packet-acdr.c$}$0
-epan/dissectors/packet-acdr.c$}$1
-epan/dissectors/packet-acdr.c$"    char *str = ""N/A""_"$0
-epan/dissectors/packet-acdr.c$"    char *str = ""N/A""_"$1
-epan/dissectors/packet-acdr.c$"        char *session_ext = """"_"$0
-epan/dissectors/packet-acdr.c$"        char *session_ext = """"_"$1
-epan/dissectors/packet-xml.c$"    col_set_str(pinfo->cinfo, COL_INFO, ""QOE Event"")_"$0
-epan/dissectors/packet-xml.c$"    col_set_str(pinfo->cinfo, COL_INFO, ""QOE Event"")_"$1
-epan/dissectors/packet-acdr.c$        case ACDR_T38:$0
-diameter/TGPP.xml$"  <avp name=""Serving-Node-Indication"" code=""714"" mandatory=""must"" vendor-bit=""must"" vendor-id=""TGPP"" may-encrypt=""no"">"$0
-diameter/TGPP.xml$"  <avp name=""Requested-Nodes"" code=""713"" mandatory=""must"" vendor-bit=""must"" vendor-id=""TGPP"" may-encrypt=""no"">"$0
-epan/dissectors/packet-tls-utils.c$"    { SSL_HND_QUIC_TP_MIN_ACK_DELAY, ""min_ack_delay"" },"$0
-epan/dissectors/packet-tls-utils.h$#define SSL_HND_QUIC_TP_MIN_ACK_DELAY                       56858$0
-debian/control$Recommends: libqt5multimedia5-plugins, libqt5svg5$0
-packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
-packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
-packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
-packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0
-ui/qt/main_window_preferences_frame.ui$"    <layout class=""QHBoxLayout"" name=""horizontalLayout_4"">"$0
-ui/qt/main_window_preferences_frame.ui$"    <layout class=""QHBoxLayout"" name=""horizontalLayout_4"">"$1
-tools/rpm-setup.sh$# libqt5-linguist-devel: OpenSUSE$1
-tools/rpm-setup.sh$# libqt5-linguist-devel: OpenSUSE$0
-tools/rpm-setup.sh$add_package BASIC_LIST qt5-linguist ||$0
-tools/rpm-setup.sh$add_package BASIC_LIST qt5-linguist ||$0
-tools/rpm-setup.sh$add_package BASIC_LIST qt5-qtmultimedia-devel ||$0
-tools/rpm-setup.sh$add_package BASIC_LIST qt5-qtmultimedia-devel ||$0
-tpncp/tpncp.dat$Audiocodes TrunkPack Network Control Protocol (TPNCP) Version L7.20.208.001$0
-epan/dissectors/asn1/ldap/packet-ldap-template.c$"#define PNAME  ""LDAP: Lightweight Directory Access Protocol"""$0
-epan/dissectors/packet-canopen.c$$0
-epan/dissectors/packet-canopen.c$$0
-epan/dissectors/packet-tftp.c$  /* When exporting file object, build up list of data blocks here */$0
-epan/dissectors/packet-tftp.c$	gchar    *filename_$0
-epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0
-epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0
-epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0
-epan/dissectors/packet-tftp.c$          tftp_info->payload_data = (guint8 *)g_try_malloc((gsize)tftp_info->file_length)_$0
-epan/dissectors/packet-tftp.c$      payload_data_offset =$0
-ui/qt/packet_list.cpp$    action->setData(QVariant(true))_$0
-epan/dissectors/packet-tftp.c$  gboolean     is_simple_file_$0
-epan/dissectors/packet-tftp.c$static gboolean tftp_defragment = FALSE_$0
-epan/dissectors/packet-tftp.c$    is_fragmented = !(is_last_package && blocknum == 1)_$1
-epan/dissectors/packet-tftp.c$        tftpfd_head = fragment_add_seq_check(&tftp_reassembly_table, tvb, offset, pinfo,$0
-epan/dissectors/packet-tftp.c$      call_data_dissector(tvb_new_subset_remaining(tvb, offset), pinfo, tree)_$0
-epan/dissectors/packet-tftp.h$/* packet-tftp.h$0
-epan/dissectors/packet-rlc-nr.c$        dissector_handle_t protocol_handle_$0
-epan/dissectors/packet-rlc-nr.c$        dissector_handle_t protocol_handle_$0
-epan/dissectors/packet-amp.c$ * This program is free software_ you can redistribute it and/or modify$0
-epan/dissectors/packet-amp.c$#include <glib.h>$0
-epan/dissectors/packet-amp.c$add_value_time_to_tree(guint64 value, int len, proto_tree *tree, tvbuff_t *tvb, int offset, int hf_time_format)$0
-epan/dissectors/packet-amp.c$        amp_message_tree = proto_tree_add_subtree(amp_message_sub_tree, tvb, offset, -1,$0
-epan/dissectors/packet-amp.c$            amp_register_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0
-epan/dissectors/packet-amp.c$				(int) tmpObj.uint, ENC_ASCII|ENC_NA)_$0
-epan/dissectors/packet-amp.c$            amp_report_set_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0
-epan/dissectors/packet-amp.c$				    (int) tmpObj2.uint, ENC_ASCII|ENC_NA)_$0
-epan/dissectors/packet-amp.c$                amp_report_sub_tree = proto_item_add_subtree(amp_report_set_tree, ett_amp)_$0
-epan/dissectors/packet-amp.c$                amp_ari_sub_tree = proto_item_add_subtree(amp_report_tree, ett_amp)_$0
-epan/dissectors/packet-amp.c$                    proto_tree_add_uint(amp_ari_tree, hf_ari_nickname, tvb, offset, 1, ariFlags)_$0
-epan/dissectors/packet-amp.c$                amp_tnvc_tree = proto_tree_add_subtree(amp_tnvc_sub_tree, tvb, offset, -1,$0
-epan/dissectors/packet-amp.c$					(int) tmpObj3.uint-tmpObj4.size, 0x00)_$0
-epan/dissectors/packet-amp.c$            amp_control_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0
-epan/dissectors/packet-amp.c$            amp_table_sub_tree = proto_item_add_subtree(amp_items_tree, ett_amp)_$0
-epan/dissectors/packet-amp.c$ */$0
-epan/dissectors/packet-amp.c$        ampHeader = tvb_get_guint8(tvb, offset)_$0
-epan/dissectors/packet-amp.c$"        { ""Reserved"", ""tnvc.reserved"","$0
-epan/dissectors/packet-cfdp.c$    first_byte = tvb_get_guint8(tvb, offset)_$0
-epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0
-epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0
-epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0
-epan/dissectors/packet-lldp.c$"	dissector_add_uint(""ethertype"", ETHERTYPE_ONOS, lldp_handle)_ /* ONOS Ether Type */"$0
-epan/dissectors/packet-lldp.c$"	dissector_add_uint(""ethertype"", ETHERTYPE_ONOS, lldp_handle)_ /* ONOS Ether Type */"$1
-CMakeLists.txt$"	URL ""www.kernel.org"""$0
-CMakeLists.txt$"	URL ""www.kernel.org"""$1
-CMakeLists.txt$"	URL ""www.kernel.org"""$0
-CMakeLists.txt$"	URL ""www.kernel.org"""$0
-CMakeLists.txt$"	URL ""www.kernel.org"""$0
-CMakeLists.txt$"	URL ""www.kernel.org"""$1
-CMakeLists.txt$"	URL ""www.kernel.org"""$1
-CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0
-CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0
-CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0
-extcap.c$         * pipe has been closed before writing the to the pipe.$0
-epan/dissectors/packet-tnef.c$"        proto_item_append_text(prop_item, "" %s"", name_string)_"$0
-epan/dissectors/packet-tnef.c$"        proto_item_append_text(prop_item, "" %s"", name_string)_"$0
-epan/dissectors/packet-gsm_a_bssmap.c$    }$0
-epan/dissectors/packet-gsm_a_bssmap.c$    }$1
-epan/dissectors/packet-tnef.c$        tag_length = tvb_get_letohl(tvb, offset)_$0
-epan/dissectors/packet-tnef.c$        tag_length = tvb_get_letohl(tvb, offset)_$0
-epan/dissectors/packet-tnef.c$          proto_tree_add_item(tag_tree, hf_tnef_property_padding, tvb, offset, padding, ENC_NA)_$0
-epan/dissectors/packet-tnef.c$          proto_tree_add_item(tag_tree, hf_tnef_property_padding, tvb, offset, padding, ENC_NA)_$0
-epan/dissectors/packet-tnef.c$      /* handle any specific tags here */$0
-plugins/epan/mate/mate_runtime.c$"				dbg_print (dbg_gog,1,dbg_facility,""analyze_gop: no gogkey_match: %s"",key)_"$0
-plugins/epan/mate/mate_runtime.c$"				dbg_print (dbg_gog,1,dbg_facility,""analyze_gop: no gogkey_match: %s"",key)_"$1
-ui/qt/interface_frame.cpp$"            ""</p><p>"""$0
-epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0
-epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0
-epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0
-epan/dissectors/packet-ber.c$    if ((len > 9) || ((len == 9) && (first != 0))) {$0
-epan/dissectors/packet-ber.c$        if ((len < 1) || (len > 9) || ((len == 9) && (first != 0))) {$0
-epan/dissectors/packet-ber.c$        if ((len < 1) || (len > 9) || ((len == 9) && (first != 0))) {$0
-epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0
-epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0
-epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0
-tools/macos-setup-brew.sh$brew install c-ares glib libgcrypt gnutls lua@5.1 cmake python nghttp2 snappy lz4 libxml2 ninja libmaxminddb doxygen libsmi spandsp brotli minizip zstd libilbc$1
-plugins/codecs/iLBC/CMakeLists.txt$set(CODEC_SRC$0
-plugins/codecs/iLBC/CMakeLists.txt$set(CODEC_SRC$0
-tools/debian-setup.sh$add_package ADDITIONAL_LIST libilbc-dev ||$0
-cmake/modules/FindILBC.cmake$"    ""${ILBC_HINTS}/include"""$0
-plugins/codecs/iLBC/iLBCdecode.c$    WebRtc_Word16 *dataIn  = (WebRtc_Word16 *)inputBytes_$0
-plugins/codecs/iLBC/iLBCdecode.c$    WebRtc_Word16 *dataIn  = (WebRtc_Word16 *)inputBytes_$0
-tools/debian-setup.sh$"	libilbc-dev"""$0
-tools/rpm-setup.sh$add_package ADDITIONAL_LIST ilbc-devel || add_package ADDITIONAL_LIST ilbc-devel ||$0
-plugins/codecs/iLBC/iLBCdecode.c$    //iLBC_decinst_t *ctx_$0
-plugins/codecs/iLBC/iLBCdecode.c$codec_iLBC_release(void *ctx _U_)$0
-plugins/codecs/iLBC/iLBCdecode.c$    WebRtcIlbcfix_DecoderFree(((ilbc_ctx_t *)ctx)->ilbc_ctx)_$0
-plugins/codecs/iLBC/iLBCdecode.c$codec_iLBC_decode(void *ctx _U_, const void *inputBytes, size_t inputBytesSize,$0
-plugins/codecs/iLBC/iLBCdecode.c$    } else if (0 == inputBytesSize%ILBC_PAYLOAD_LEN_30MS) {$0
-plugins/codecs/iLBC/iLBCdecode.c$    } else if (0 == inputBytesSize%ILBC_PAYLOAD_LEN_30MS) {$0
-epan/proto.c$		case ENC_TIME_CLASSIC_MAC_OS_SECS|ENC_LITTLE_ENDIAN:$0
-epan/proto.c$		case ENC_TIME_CLASSIC_MAC_OS_SECS|ENC_LITTLE_ENDIAN:$0
-packaging/rpm/wireshark.spec.in$* Sun Jan 19 2019 Jiri Novak$0
-ui/io_graph_item.c$#define get_io_graph_item_advanced_FT_xINT_unit(datatype)   \$0
-ui/io_graph_item.c$            //shift left to take the sign bit into account durch conversion$0
-ui/io_graph_item.c$            //shift left to take the sign bit into account durch conversion$0
-ui/io_graph_item.c$            //undo the left shift by dividing by 256$0
+filename$LOC$class_value$message
+.github/workflows/close_pr.yml$"        comment: ""We do not accept PRs. Patches should be sumbitted through Gerrit. See https://www.wireshark.org/docs/wsdg_html_chunked/ChSrcContribute.html"""$0$"Maybe ""We do not accept GitHub PRs."" ?_"
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0$"since you are not adding any extra information here, perhaps drop the ""[truncated]"" text here and rely on the label of the field in packet-tls-utils.h _  _ And use proto_item_set_generated to get the '[' and ']' effect._"
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$1$Done_
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0$Would this be worth showing as expert info instead of a normal item? Warning about a lot of items? _  _ Instead of counting the number of layers, what about limiting the number of items to a fixed number (e.g. 100, or whatever makes sense)? That way you do not have to rely on an internal implementation detail._
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0$"The number of layers added per DN is not fixed, therefore using a fix number can still trigger a ""Dissector bug warning"". This way it will not trigger that regardless the number of layers per DN, because that is also based on a layer count. (Unless we use a value that on the very save side, like 50.) _  _ I have considered expert info, but this way it looks like the ""[truncated]"" message for long strings in the tree pane. Long strings (like cookies in HTTP) are not flagged with expert info. So I think this is more consistent._"
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0$I'd suggest limiting it to a sane amount, like 50 or 100. That way the depth detail can be kept internal to packet.c, and it is easier to explain when things go wrong. _  _ For example, during presentations you could note that no filters will be available for DN past the limit._
+epan/dissectors/packet-tls-utils.c$"                    tvb, offset, next_offset - offset, ""[truncated]"")_"$0$> no filters will be available for DN past the limit _ That is a good point. And a significant difference compared to truncated strings. Now I am in doubt if we should add expert info because of this (or is having the filter tls.handshake.dnames_truncated enough?). _  _ Having a fixed limit is indeed easier to explain and document. Normally I try avoid having multiple constant values that have a correlation. _ I did some digging. In the sample pcap the average is 4,55 and the list starts with the DNs with the lowest number of RDNs. That appears to be the normal order. A limit of 100 is a nice round number and allows for just below 5 (= PINFO_LAYER_MAX_RECURSION_DEPTH / 100) RDNs per DN on average. _ So that should be high enough to normally not hit this limit and low enough not hit the 500 layers DISSECTOR_ASSERT._
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0$"Oh I see what you mean by ""common_hf thing"". I will use that macro... _ Ignore my previous comment._"
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0$consider adding this to the common_hf thing in packet-tls-utils.h as it would also apply to DTLS._
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$0$A header file (.h) should not contain statements that result in generated code. If it is included multiple times and contains 'static int ...' then that will generate multiple memory allocations for those statics (or compiler errors depending how it is set up). _ What about I move this to packet-tls-utils.c and call a function (e.g. proto_register_tls_utils) from proto_register_tls to initialize it._
+epan/dissectors/packet-tls.c$       int hf_tls_handshake_dnames_truncated  = -1_ /* global: also used in packet-tls-utils.c */$1$Done_
+epan/dissectors/packet-afs.c$	}$0$is something missing here and above? The switch seems pretty useless. If you do not plan to implement it, don't forget to mark opcode with _U_ _  _ Is there a packet capture sample? If so, do open a bug and attach it._
+epan/dissectors/packet-afs.c$	}$0$"I just copied these from the existing dissect_backup_reply and _request.  I left them stubbed out because my only interest for now is to correctly display the RPC (rather than the current ""Unknown"").  The RPC payloads would be dissected here, and I'm not currently interested in dissecting the payloads of these RPCs. _  _ The packet capture sample that shows this problem is from the project's sample captures page, as mentioned in the commit message:   _ https://wiki.wireshark.org/SampleCaptures?action=AttachFile&do=get&target=afs.cap.gz_"
+epan/dissectors/packet-afs.c$	}$0$I marked them with a _U_ in the next patchset._
+epan/dissectors/packet-rx.c$	char *version_type_$1$const char * _  _ Can you also squash some trivial patches? Changing a typo in a comment can probably be done while you are modifying other code._
+epan/dissectors/packet-rx.c$	char *version_type_$1$The trivial patches have little regression risk, and this patch is not too complicated, so I think they can be squashed into one. _  _ Use your best judgment, we have had patches with 10k of lines which are almost impossible to review. On the other hand, if changes are somewhat related, it makes sense to group them. For example: https://code.wireshark.org/review/36150_
+epan/dissectors/packet-rx.c$	char *version_type_$1$Done_
+epan/dissectors/packet-rx.c$	char *version_type_$0$Thanks, I'll make this const in the next patchset. _  _ Sorry, the OpenAFS project I contribute to has the opposite policy - one change, one commit - so I'm used to that.  But of course I'll be glad to squash the trivial ones.  _ Should I squash the 2 trivial patches into this one? _ Or just squash the 2 trivial patches into a single patch?_
+.github/workflows/windows.yml$      - name: set$0$this debug step can be removed IMHO_
+.github/workflows/windows.yml$      - name: set$0$Sure. I forgot it._
+.github/workflows/windows.yml$          name: exe$0$"This is literally displayed as ""exe"", is that name good enough? _ https://github.com/crondaemon/wireshark/actions/runs/50846717 _  _ There is only one installer, but sadly uploading a single file is not supported yet. Maybe in v2: _ https://github.com/actions/upload-artifact/issues/3_"
+.github/workflows/windows.yml$          name: exe$0$"As per my other comment in the ubuntu change, I'll go with ""packages"" for all._"
+.github/workflows/ubuntu.yml$          name: debian$0$"maybe call it "".deb packages"" or something? This ""debian"" looks confusing _ https://github.com/crondaemon/wireshark/actions/runs/48235133_"
+.github/workflows/ubuntu.yml$          name: debian$0$"I was not really inspired when I choose this name. I think I'll go with ""packages"" for all the platforms._"
+ui/qt/capture_file_dialog.cpp$                    .arg(ti_tm->tm_year + 1900, 4, QChar('0'))$0$"That doesn't work. _  _ The compiler will *not* say ""OK, there's a version of the arg method that takes an integral value, a field width, a base, and a fill character, but you only passed three arguments, so I'll match up the int first argument with the int ""a"" argument, match up the second int argument with the int ""fieldWidth"" argument, and match up the third QChar argument with the QChar ""fillChar"" argument, and default the int ""base"" argument to 10"", it just matches the QChar argument with ""base"" and converts it to an int. _  _ See bug 16429 - https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=16429. _  _ That applies to all the added .arg calls.  A fix is in progress._"
+ui/qt/main_status_bar.cpp$    push_msg = QString::vasprintf(msg_format, ap)_$0$This was introduced in Qt 5.5._
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0$Why std::string? Why not QString? _  _ What about improving with something like this to avoid doing a .c_str() several times: _  _     const char *token_str = token.section('.', 0, 0).toUtf8().constData()__
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0$I was looking for the way to get a C-string out of a QString, but couldn't find a (definitive) answer. If this is it I gladly change it._
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0$This is the way we do it all other places. Have a look at our qstring_strdup() in qt_ui_utils.cpp_
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$1$Looking at it in more detail, I think I'll have to use qstring_strdup() as well, instead of keeping the pointer to the QByteArray.constData(). Reason is that the QByteArray is a temporary object, IIRC, so the pointer would be invalid after this line.  _  _ Anywhere else this construct is used in function parameters, with only one exception in tap_parameter_dialog.cpp, which I think suffers from the same bug._
+ui/qt/widgets/syntax_line_edit.cpp$            std::string token_str(token.toStdString())_$0$One more question: why doesn't qstring_strdup() take a reference to QString q_string?_
+ui/qt/widgets/syntax_line_edit.cpp$            char *dot = strchr(token_copy, '.')_$0$What about using C++ to do your string handling here?_
+ui/qt/widgets/syntax_line_edit.cpp$            char *dot = strchr(token_copy, '.')_$1$Done_
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" may have unexpected results. """$0$We may also want to update the ChWorkBuildDisplayFilterMistake section in WSUG_chapter_work.adoc after this textual change._
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" may have unexpected results. """$1$Done_
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0$"The User's Guide doesn't explicitly state that ""!="" or ""ne"" is deprecated, and I don't think the operator is actually deprecated, so I would say this should be changed to ""%1 may have unexpected results"" as I did in patch #2._"
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0$Looks like it. I'll change the text._
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0$"I think we just use the same mechanism for both ""!=""/""ne"" and renamed protocol abbreviations._"
+ui/qt/widgets/syntax_line_edit.cpp$"                syntax_error_message_ = tr(""\""%1\"" is deprecated and may have unexpected results. """$0$I had a similar question. But if that is true, dfilter_deprecated_tokens shouldn't have returned a value?_
+ui/qt/widgets/syntax_line_edit.cpp$            header_field_info *hfinfo = proto_registrar_get_byalias(alias)_$0$"Maybe we can use this pointer to determine if ""depr"" is deprecated or if it may have unexpected results: _ * If hfinfo is valid then it's probably a deprecated field. _ * If hfinfo is NULL then it's probably ""may have unexpected results""._"
+ui/qt/widgets/syntax_line_edit.cpp$            header_field_info *hfinfo = proto_registrar_get_byalias(alias)_$0$Thanks for having a look. Indeed the returned hfinfo pointer is not usable as-is. I will look into your suggestion._
+epan/dissectors/packet-quic.c$ * Extension :$0$Drop the space before the colon (or just remove these lines?)_
+.gitlab-ci.yml$  image: debian:stable$0$Why aren't you using the ubuntu image other jobs use?_
+.gitlab-ci.yml$    - apt-get update -qq$1$This is not required. Already done by the install script._
+.gitlab-ci.yml$    - dpkg-buildpackage -b --no-sign -Jauto > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign --no-pre-clean$0$"The build output is 8M, GL seems limited to 4M. What about just redirecting standard output to /dev/null while preserving stderr? That will contain the most interesting part anyway. _  _ typo: ""exceed"". Gitlab is capitalized. Might be worth pointing out that Gitlab just truncates the log, it does not appear to fail the build because of that: https://gitlab.com/gitlab-com/support-forum/issues/2790_"
+.gitlab-ci.yml$    - dpkg-buildpackage -b --no-sign -Jauto > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign --no-pre-clean$1$Even better, it appears that you can set DH_QUIET=1 to avoid the verbose Makefiles. Can you try that? _  _ Source: _ https://salsa.debian.org/debian/debhelper/blob/master/lib/Debian/Debhelper/Buildsystem/cmake.pm#L92 _ https://manpages.debian.org/buster/debhelper/debhelper.7.en.html_
+tools/debian-setup.sh$"	lsb-release"""$0$Could you do this in a separate patch and include a motivation in the commit message?_
+.gitlab-ci.yml$# https://about.gitlab.com/2016/10/12/automated-debian-package-build-with-gitlab-ci/$0$Could you remove these comments? The config is pretty self-explanatory and you have already mentioned it in the commit message_
+.gitlab-ci.yml$build-debian-deb:$0$an you follow the names of other sections? E.g.: _  _  build:debian-stable_
+.gitlab-ci.yml$    - apt-get install -y lsb-release libbrotli-dev$0$libbrotli-dev is already installed by debian-setup and not needed. For lsb-release, could you create a new patch that adds it to DEBDEPS_LIST? The reason for the dependency is use of lsb_release in debian/rules. It used to be there to handle building for older distros (such as Ubuntu 12.04 precise), but it is currently unused however._
+.gitlab-ci.yml$"    - dpkg-buildpackage -b --no-sign -J$(nproc) > /dev/null 2>&1 || dpkg-buildpackage -b --no-sign -J$(nproc) --no-pre-clean "$0$"please replace -J$(nproc) by -jauto since we support parallel builds: https://manpages.debian.org/buster/dpkg-dev/dpkg-buildpackage.1.en.html _  _ Why do you build twice?_"
+epan/dissectors/packet-f5ethtrailer.c$                if (ver == 1 && ets_changed) {$0$I think Petri Dish is going to continue to choke here? _  _ AFAICT this won't be used uninitialized, because if ver == 1, it was assigned a value above._
+epan/dissectors/packet-f5ethtrailer.c$                if (ver == 1 && ets_changed) {$0$set a default value to ets_changed..._
+ui/packet_range.c$        for(framenum = 1_ framenum <= range->cf->count_ framenum++) {$0$"Add space between ""for"" and ""(""._"
+ui/packet_range.c$        for(framenum = 1_ framenum <= range->cf->count_ framenum++) {$1$Done_
+ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$0$"Please don't randomly add space after ""("" and before "")"", this makes the code harder to read. Follow the convention in the file._"
+ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$1$Done, just fyi - I don't randomly add them, I am just used to the style in the Qt classes, but I will try to be more careful_
+ui/packet_range.c$    if ( range->process == range_process_selected && range->selection_range == NULL ) {$0$In the Qt code it seems to be added randomly, and this makes the code harder to read because of inconsistent styles._
+ui/qt/export_dissection_dialog.cpp$    packet_range_group_box_.initRange(&print_args_.range, range)_$0$Is range here selRange? The code is a bit hard to read with two different range._
+ui/qt/export_dissection_dialog.cpp$    packet_range_group_box_.initRange(&print_args_.range, range)_$1$Ack, has been renamed to selRange here as well_
+ui/qt/main_window.cpp$        frame_data * fdata = 0_$0$"Use ""= NULL""._"
+ui/qt/main_window.cpp$        frame_data * fdata = 0_$1$Done_
+ui/qt/main_window.cpp$QList<int> MainWindow::selectedRows(bool frameNum)$0$"""bool useFrameNum"" as in packet_list.cpp?_"
+ui/qt/main_window.cpp$QList<int> MainWindow::selectedRows(bool frameNum)$1$Done_
+ui/qt/main_window.h$    QList<int> selectedRows(bool frameNum = false)_$0$bool useFrameNum_
+ui/qt/main_window.h$    QList<int> selectedRows(bool frameNum = false)_$1$Done_
+ui/qt/main_window.ui$     <height>21</height>$0$Is this a needed change?_
+ui/qt/main_window.ui$     <height>21</height>$0$Nope, seemed to be the designer's doing_
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$0$"Please add newline before ""return"", it makes debugging easier._"
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$1$Done, but this is continue _-)_
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$0$"Please add newline before ""return""._"
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$1$Done_
+ui/qt/models/packet_list_model.cpp$void PacketListModel::toggleFrameIgnore(const QModelIndexList &fm_indeces)$0$This should be &i_indeces to align with other toggleFrame* functions._
+ui/qt/models/packet_list_model.cpp$void PacketListModel::toggleFrameIgnore(const QModelIndexList &fm_indeces)$1$Done_
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$0$"Please add newline before ""return""._"
+ui/qt/models/packet_list_model.cpp$        if (!record) continue_$1$Done_
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$0$"Please add newline before ""return""._"
+ui/qt/models/packet_list_model.cpp$        if (!fdata) continue_$1$Done_
+ui/qt/models/packet_list_model.h$    void toggleFrameIgnore(const QModelIndexList &fm_indeces)_$0$This should be &i_indeces_
+ui/qt/models/packet_list_model.h$    void toggleFrameIgnore(const QModelIndexList &fm_indeces)_$0$Just renamed it to indeces_
+ui/qt/packet_list.cpp$    if (!currentIndex().isValid()) return_$0$"Please add newline before ""return"", it makes debugging easier._"
+ui/qt/packet_list.cpp$    if (!currentIndex().isValid()) return_$1$Done_
+ui/qt/packet_list.cpp$    if (!ca) return_$0$"Please add newline before ""return""._"
+ui/qt/packet_list.cpp$    if (!ca) return_$1$Done_
+ui/qt/packet_range_group_box.cpp$"        pr_ui_->selectedCapturedLabel->setText(""0"")_"$0$"Put this code in the else part of ""if (can_select)"" block above._"
+ui/qt/packet_range_group_box.cpp$"        pr_ui_->selectedCapturedLabel->setText(""0"")_"$1$Done_
+ui/qt/packet_range_group_box.cpp$        pr_ui_->selectedCapturedLabel->setText(QString::number(range_->selection_range_cnt))_$0$"Put this code in the ""if (can_select)"" block above._"
+ui/qt/packet_range_group_box.cpp$        pr_ui_->selectedCapturedLabel->setText(QString::number(range_->selection_range_cnt))_$1$Done_
+ui/qt/print_dialog.cpp$    pd_ui_->rangeGroupBox->initRange(&print_args_.range, range)_$0$Is range here selRange?_
+ui/qt/print_dialog.cpp$    pd_ui_->rangeGroupBox->initRange(&print_args_.range, range)_$1$Yes, Done_
+ui/qt/proto_tree.cpp$$0$Remove unneeded empty line._
+ui/qt/proto_tree.cpp$$1$Done_
+ui/qt/packet_range_group_box.cpp$    if (!can_select) {$0$"This code can be moved to the ""if (can_select)"" blocks above._"
+ui/qt/models/related_packet_delegate.cpp$        MainWindow * mw = qobject_cast<MainWindow *>(wsApp->mainWindow())_$0$Do you need to do this cast twice? _ Why not just do this cast once and check  _  _   if ( mw && mv->selectedRows().count() > 1 )_
+ui/qt/models/related_packet_delegate.cpp$        MainWindow * mw = qobject_cast<MainWindow *>(wsApp->mainWindow())_$0$We could do that, but it does not make any difference timing wise._
+ui/qt/packet_list.cpp$#include <QDebug>$0$Why QDebug?_
+ui/qt/packet_list.cpp$#include <QDebug>$0$Because I am blind_
+epan/dissectors/packet-quic.c$#define FT_TIME_STAMP           0x02F5$0$Add link to IETF draft in comment?_
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$0$should not we have a break here?_
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$1$Done_
+ui/qt/models/decode_as_delegate.cpp$        }$0$should not we have a break here?_
+ui/qt/models/decode_as_delegate.cpp$        }$1$Done_
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$0$should not we have a break here?_
+ui/qt/models/decode_as_delegate.cpp$        editor = cb_editor_$1$Done_
+epan/dissectors/packet-quic.c$"            expert_add_info_format(pinfo, ti_ft, &ei_quic_ft_unknown, ""Unknown Frame Type %u"", (guint32)frame_type)_"$0$"This is a 62-bit namespace, see https://tools.ietf.org/html/draft-ietf-quic-transport-27#section-22.3 _  _ Change %u to: _  _  %#"" G_GINT64_MODIFIER ""x _  _ and drop the typecast. Displaying it as hexadecimal is consistent with _ https://tools.ietf.org/html/draft-ietf-quic-transport-27#page-73_"
+epan/dissectors/packet-quic.c$"            expert_add_info_format(pinfo, ti_ft, &ei_quic_ft_unknown, ""Unknown Frame Type %u"", (guint32)frame_type)_"$1$Thanks Peter for fix (and yes, it is better to use hex)_
+.github/workflows/macos.yml$      - name: mkdir$0$this task don't test with majuscule_
+.github/workflows/macos.yml$      - name: Cmake$0$cmake ?_
+.github/workflows/macos.yml$      - name: Cmake$0$It's just the label. I used capital names everywhere._
+.github/workflows/macos.yml$      - name: Cmake$0$I don't understand. The task name is Cmake everywhere._
+.github/workflows/macos.yml$      - name: Cmake$0$not here..._
+epan/dissectors/packet-usb-audio.c$static gint dissect_ac_if_selector_unit(tvbuff_t *tvb, gint offset, packet_info *pinfo _U_, proto_tree *tree, usb_conv_info_t *usb_conv_infoi _U_)$0$"Is the ""i"" in ""usb_conv_infoi"" a typo?_"
+epan/dissectors/packet-usb-audio.c$    ti = proto_tree_add_item(tree, hf_ac_if_su_sourceids, tvb, offset, nrinpins, ENC_NA)_$1$This shows in the dissection tree as follows: _  _ Source IDs: 0a0c0e _     Source ID: 10 _     Source ID: 12 _     Source ID: 14 _  _ It would be better to display as: _  _ Source IDs: 10, 12, 14 _     Source ID: 10 _     Source ID: 12 _     Source ID: 14_
+ui/qt/models/profile_model.cpp$            if (fentry.fileName().length() <= 0)$0$This prevents the crash, but does not fix the underlying issue. On Windows, there is only one entry in the entries list - and that entry has empty fileName(). This entry is the directory name. _  _ It looks that the bug that should be fixed is in filterProfilePath(), but I still need to compare the path the code takes when importing zip on Linux vs Windows. Hopefully the zip import works on Linux._
+epan/dissectors/packet-smb2.c$	if (!(val->frame_beg <= key->frame_key&&key->frame_key <= val->frame_end))$0$style suggestions: _ - Add spaces around '&&' _ - Put the following block between braces for consistency with the above. (if (...) { ..._ })_
+epan/dissectors/packet-ftdi-mpsse.c$"        return g_strdup_printf(""%.12g GHz"", freq / 1e9)_"$0$Coverity Scan will most likely mark this as dead code._
+epan/dissectors/packet-ftdi-mpsse.c$    } else {$0$Please keep the style used within the file._
+epan/dissectors/packet-ftdi-mpsse.c$"        proto_item_append_text(item, "", TCK Max: %s (12 MHz master clock) or %s (60 MHz master clock)"", str_old, str)_"$0$As 60 MHz master clock is default, I would swap these two._
+epan/dissectors/packet-ftdi-mpsse.c$            FT_UINT16, BASE_DEC, NULL, 0x0,$1$It might be good to use BASE_HEX, as it is listed in the table in AN_108 in hex._
+epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0$You can return gchar * here allocated with g_strdup_printf(), instead of passing fixed size buffer._
+epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0$Yes, the g_free() should be added if using g_strdup_printf(). There are no macros to do this automatically, and I don't really think a macro is needed anyway._
+epan/dissectors/packet-ftdi-mpsse.c$static gint freq_to_str(gchar* str, guint size, gfloat freq)$0$But then we need to handle deallocation. Are there any macros do this automatically?_
+epan/dissectors/packet-ftdi-mpsse.c$    } else if (freq < 1e6)$0$When editing Wireshark source code, please adhere to the style used within the file. In this file, the else is placed on separate line._
+epan/dissectors/packet-ftdi-mpsse.c$        if (mpsse_info->chip != FTDI_CHIP_FT2232D)$0$The condition here is wrong. Right now, it won't add the Clock only if the target device is FT2232D._
+epan/dissectors/packet-ftdi-mpsse.c$        if (mpsse_info->chip != FTDI_CHIP_FT2232D)$0$Ah sorry, I was testing and forgot to change back._
+epan/dissectors/packet-ftdi-mpsse.c$"            proto_item_append_text(item, "", Clock: %s"", str)_"$0$"Instead of ""Clock"", it would be more appripriate to use ""TCK/SK Max"" as used in the AN_108._"
+epan/dissectors/packet-ftdi-mpsse.c$        }$0$"For H-series chips, you could do ""TCK Max: %s or %s"", freq_not_divided, freq_if_divided. In the future we could just link (via generated fields) to the packets that enable/disable the divisor._"
+epan/dissectors/packet-ftdi-mpsse.c$        case CMD_CLOCK_SET_DIVISOR: case 0x8F: case 0x9C: case 0x9D: case 0x9E:$0$"The (not really stated) style here is to have the defines in its own line, while grouping the ""hex only"" in single line._"
+epan/dissectors/packet-ftdi-mpsse.c$            FT_UINT16, BASE_DEC, NULL, 0x0,$1$It might be good to use BASE_HEX, as it is listed in the table in AN_108 in hex._
+epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0$CMD_SET_CLOCK_DIVISOR would match the convention._
+epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0$"I didn't really think of it in such way! The ""convention"" I used is simply ""reflect the word order in command headline in AN_108""._"
+epan/dissectors/packet-ftdi-mpsse.c$#define CMD_CLOCK_SET_DIVISOR         0x86$0$Isn't the convention CMD_{command domain?}_{command description}? _  _ Like we have bellow: _ CMD_CPUMODE_READ_SHORT_ADDR _ CMD_CPUMODE_READ_EXT_ADDR _ ... _  _ I can change, I just thought this was the convention. And IMO it makes it easier to read when you have a bunch of definitions. _  _ I can change, just let me know if this really what you want._
+epan/dissectors/packet-ftdi-mpsse.c$"    {0x86, ""Set TCK/SK Divisor""},"$0$Please change the 0x86 to define value here._
+epan/dissectors/packet-ftdi-mpsse.c$    if (freq >= 0 && freq < 1e3)$0$The check for positive values here might not be necessary. If negative value would be passed (here it can't really happen), it would display it in KHz regardless of value order of magnitude._
+ui/macosx/sparkle_bridge.m$// this doesn't work for me (gcc) here.$0$If anyone wants to test this, they can do so by switching back to checkForUpdatesInBackground above and setting gui.update.channel to DEVELOPMENT, which currently returns version 9.9.9 for macOS._
+ui/macosx/sparkle_bridge.m$// this doesn't work for me (gcc) here.$0$This appears to be due to Autoupdate.app not being signed._
+ui/qt/models/packet_list_record.cpp$        read_failed_ = true_$0$It should be reset somewhere._
+epan/dissectors/packet-usb-audio.c$            nrchannels = tvb_get_guint8(tvb,offset)_$0$You might use proto_tree_add_item_ret_uint() to get the value (as guint32) instead of accessing it twice from tvb._
+epan/dissectors/packet-usb-audio.c$            proto_tree_add_item(tree, hf_as_if_ft_nrchannels, tvb, offset, 1, ENC_LITTLE_ENDIAN)_$0$Save the return value as it will be needed to add expert info under the item value._
+epan/dissectors/packet-usb-audio.c$                break_$0$Instead of breaking when the value is incorrect, actually add the expert info using expert_add_info(pinfo, item, &ei_usb_audio_invalid_type_3_ft_nrchannels)._
+epan/dissectors/packet-usb-audio.c$    }_$0$"Here you can register new ei values for the invalid values., _ e.g. _ { &ei_usb_audio_invalid_type_3_ft_nrchannels, {""usbaudio.as_if_ft.bNrChannels.invalid_value"", PI_MALFORMED, PI_ERROR, ""bNrChannels must be 2 for Type III Format Type descriptors"", EXPFILL }},_"
+epan/dissectors/packet-usb-audio.c$        case 3:$0$It would be great if you checked the Number Channels, Subframe Size and Bit Resolution for the required values in type 3 format (respectively 2, 2 and 16). If the values do not match, then add expert info warning._
+epan/dissectors/packet-pfcp.c$    /* Oct 5 The Port Management Information field shall be encoded as an Octet String. */$0$OctetString = Binary data = FT_BYTES :-)_
+epan/dissectors/packet-pfcp.c$    /* Oct 5 The Port Management Information field shall be encoded as an Octet String. */$1$Done_
+epan/dissectors/packet-teap.c$dissect_pac_attr(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset)$0$remove _U_ from tree_
+epan/dissectors/packet-teap.c$dissect_pac_attr(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset)$1$Done_
+epan/dissectors/packet-teap.c$dissect_teap_tlv_pac(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset, guint16 len)$0$remove _U_ from pinfo and tree_
+epan/dissectors/packet-teap.c$dissect_teap_tlv_pac(tvbuff_t *tvb, packet_info *pinfo _U_, proto_tree *tree _U_, int offset, guint16 len)$1$Done_
+epan/dissectors/packet-teap.c$"      val_to_str(type, teap_tlv_type_vals, ""Unknown""), type)_"$0$"val_to_str_const since ""Unknown"" is static memory with no format specifiers (%x for example)_"
+epan/dissectors/packet-teap.c$"      val_to_str(type, teap_tlv_type_vals, ""Unknown""), type)_"$1$Done_
+epan/dissectors/packet-teap.c$      }$0$are 20 bytes for other flags cases deliberately skipped? Maybe add a TODO comment. _ Use of proto_tree_add_item has as side-effect that an exception occurs if this number of data is not available_
+epan/dissectors/packet-teap.c$      }$0$"""flags"" indicate which fields (EMSK/MSK) are used. Based on actual capture files from hostap hwsim test cases I found that 20 bytes of data is there for each field even when a field is not used. When not used the field is just filled with zero-data._"
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0$link other tools make be add optional parameter ?_
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0$Yes !_
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0$Do you mean make this script more complex by adding --install-optional?_
+tools/macos-setup-brew.sh$	doxygen libsmi spandsp brotli minizip zstd libssh libilbc speexdsp gettext qt5$0$That would be great, but it needs a mac development machine to work on, and I don't have one. It's a pain in the neck to do such a change just using builders. For that reason I'm not doing it at the moment. Maybe in the future but not now. _  _ I'd move this change forward anyway though, because I'm going to push a configuration file for github actions (CI) that requires those missing packages._
+tools/macos-setup-brew.sh$#  tab-width: 8$0$why exit 0 ?_
+tools/macos-setup-brew.sh$#  tab-width: 8$1$This is a nasty step. brew when a packages is already installed returns with non-zero. In different builders (like the one I'm working on) some packages can be there. The previous version worked because qt was installed in a subsequent command, and was unlikely already installed, so the script returned 0. I haven't found a way to return 0 even if some packages are already installed and then the idea of always return 0._
+epan/dissectors/packet-lacp.c$        } else {$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$        }$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$    }$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0$This maybe should remove the else, leave the store to offset and be adjusted to: _  _         offset += 2_ _     } _ } _ set_actual_length(tvb, offset)_ _ proto_item_set_len(lacp_item, tvb_captured_length(tvb))_ _ return tvb_captured_length(tvb)_ _  _ Presumably, there could still be bytes after the HP specific bytes?_
+epan/dissectors/packet-lacp.c$        } else {$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$        }$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$    }$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0$for me it it not a problem_
+epan/dissectors/packet-lacp.c$        } else {$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$        }$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$    }$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0$it is very specific case i think _)_
+epan/dissectors/packet-lacp.c$        } else {$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-lacp.c$            /* Not the HP specific extras.  Don't claim the remaining data.  It may actually be an ethernet trailer. */$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-lacp.c$            set_actual_length(tvb, tvb_captured_length(tvb) - length_remaining)_$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-lacp.c$            proto_item_set_len(lacp_item, tvb_captured_length(tvb))_$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-lacp.c$        }$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-lacp.c$    }$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-lacp.c$    return tvb_captured_length(tvb)_$0$I don't have any examples, but I think it is a more complete answer.  My initial patch only fixed my specific use case.  This additional change would also fix the case where there is HP specific LACP data, and the capture was taken on a TAP that adds a trailer._
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0$you can omit this call and use a tail call: _  _  return dissect_rtp(tvb_sub, pinfo, tree, data)__
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0$ah okay, I missed the +2 part. Let's go for the current approach then, it does not really matter._
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0$Should it be like this: _ return dissect_rtp(tvb_sub, pinfo, tree, data) + 2_ // plus length field _  _ I tried both, they both run correctly. It seems return value doesn't matter._
+epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0$This works, but due to the use ot tcp_dissect_pdus, it would have been sufficient to check tvb_reported_length or tvb_reported_length_remaining. (You do not have to change this if you prefer this.)_
+epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0$Either: _  _  if (tvb_reported_length(tvb) <= 2) { // or == 2 _  _ or _  _  if (tvb_reported_length_remaining(tvb, 2) == 0) {_
+epan/dissectors/packet-rtp.c$    proto_tree_add_item_ret_uint(tree, hf_rfc4571_header_len, tvb, offset, 2, ENC_NA, &length)_$0$Should it be like this? _ if (tvb_reported_length_remaining(tvb, 2) == 0) { _      return 2_ _  } _ Or _ if (tvb_reported_length_remaining(tvb, 0) == 2) { _      return 2_ _  }_
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0$since this is already the RTP dissector, what about calling dissect_rtp directly as what happening in the old code?_
+epan/dissectors/packet-rtp.c$    return tvb_reported_length(tvb)_$0$Reasonable._
+epan/dissectors/packet-rtp.c$    offset += 2_$0$"https://tools.ietf.org/html/rfc4571#section-2 _ ""Zero is a valid value for LENGTH, and it codes the null packet."" _  _ You could presumably check for: _  _  if (tvb_reported_length_remaining(tvb, 0) == 0) { _      return 2_ _  }_"
+epan/dissectors/packet-rtp.c$    offset += 2_$0$Currently only packages with RTP or RTCP header will be dissected, see line 1716. _ Maybe null packet should be consider._
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0$Is this correct? The payload type is a 8-bit field, not 16-bit: _  _ - 200 https://tools.ietf.org/html/rfc3550#section-6.4.1 _ - 201 https://tools.ietf.org/html/rfc3550#section-6.4.2 _ - 202 https://tools.ietf.org/html/rfc3550#section-6.5 _ - 203 https://tools.ietf.org/html/rfc3550#section-6.6 _  _ Furthermore, it appears that the RTP dissector will invoke RTCP by itself, why do you have this special case here?_
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0$Yes, it's already handled in RTP dissector(line 1940).  _ I'll remove the RTCP call here._
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0$1. It's a mistake, it should be 8-bit. _ 2. RTCP is also encapsulated in RFC4571, it should be dissected too._
+epan/dissectors/packet-rtp.c$    guint16 rtcp_type = tvb_get_ntohs(tvb, offset+1)_$0$2. is this not handled by the RTP dissector already? What happens if you remove the special case for codes 200 < tcp_type < 204? _  _ Why only those codes, there appear to be more codes specific to RTCP_
+epan/dissectors/packet-rtp.c$#include <epan/dissectors/packet-tcp.h>$0$"replace it by _ #include ""packet-tcp.h"" in line 54_"
+epan/dissectors/packet-rtp.c$    guint16 rtp_length = tvb_get_ntohs(tvb, offset)_ /* length field is at the beginning, 2 byes */$0$there is a typo_
+tools/macos-setup-brew.sh$#brew install qt5$0$this is an unrelated change that should not be included_
+epan/dissectors/packet-ieee80211.c$"	expert_add_info_format(pinfo, tree, &ei_ieee80211_wfa_60g_attr_len_invalid, ""Packet too short for 60G capability attribute"")_"$0$indent use space (also for next line)_
+epan/dissectors/packet-ieee80211.c$"	expert_add_info_format(pinfo, tree, &ei_ieee80211_wfa_60g_attr_len_invalid, ""Packet too short for 60G capability attribute"")_"$1$Done_
+epan/dissectors/packet-f5ethtrailer.c$/* some new text - git testing */$0$This will be gone on the next patch set...  inadvertantly left in from a test..._
+epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0$This is only available since Libgcrypt 1.6. We for some reason require 1.4.2 at minimum. _  _ Either guard this, or decide that we do not care about Ubuntu 16.04/Debian Jessie/RHEL 7 and adjust CMakeLists.txt and other files accordingly. We probably want to support RHEL 7, so this should probably be guarded._
+epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0$this is already guarded with 1.6 check, see the ifdef above_
+epan/dissectors/packet-smb2.c$		if ((err = gcry_cipher_ctl(cipher_hd, GCRYCTL_SET_CCM_LENGTHS, lengths, sizeof(lengths)))) {$0$a cool, I somehow missed that_
+epan/dissectors/packet-smb2.c$ good:$0$While I don't see bugs in this code, perhaps it can be rewritten to avoid goto? E.g. this structure: _  _  gboolean try_ccm = TRUE, try_gcm = TRUE_ _  _  if (try_ccm) { _     ok = do_decrypt(...)_ _     ... _  } _  if (!ok && try_gcm) { _     ok = do_decrypt(...)_ _     ... _  } _  if (!ok) { _      return NULL_ _  }_
+epan/dissectors/packet-quic.c$ * https://tools.ietf.org/html/draft-ietf-quic-transport-25$0$Update also here_
+epan/dissectors/packet-quic.c$ * https://tools.ietf.org/html/draft-ietf-quic-transport-25$1$Done_
+ui/software_update.c$const char *software_update_info() {$0$This is C, so that should probably be _  _     const char *software_update_info(void)_
+ui/software_update.c$const char *software_update_info() {$1$Done_
+ui/software_update.c$const char *software_update_info() {$0$Same here._
+ui/software_update.c$const char *software_update_info() {$1$Done_
+ui/software_update.c$const char *software_update_info() {$0$And here._
+ui/software_update.c$const char *software_update_info() {$1$Done_
+epan/dissectors/packet-lwres.c$                        format_text(wmem_packet_scope(), dname, dlen))_$1$Because format_text is also used on line 572, it might be better to factor into one call with a name_out var_
+epan/dissectors/packet-lwres.c$                        format_text(wmem_packet_scope(), dname, dlen))_$1$Because format_text is also used on line 612, it might be better to factor into one call with a name_out var_
+ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0$Since UAT is a global thing, for consistency with other UATs I would probably keep this at tje global scope._
+ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0$"The uat_new function is documented to export the applied changes through the ""data_ptr"" and ""num_items_ptr"" arguments. It indeed does not reflect pending changes._"
+ui/qt/io_graph_dialog.cpp$        static guint num_io_graphs_ = 0_$0$"One thing that's not so clear, when keeping it global is the fact that the variable reflects the saved values and not necessarily the ""current unsaved changes""._"
+epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST) || (eap_type == EAP_TYPE_TEAP) {$0$This does not build. Missing a closing )._
+epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST) || (eap_type == EAP_TYPE_TEAP) {$0$Oups_
+epan/dissectors/packet-eap.c$            (eap_type == EAP_TYPE_FAST)) {$0$Does this need to be changed too? According to https://tools.ietf.org/html/rfc7170#section-3.1 there is a version field somewhere._
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$        } else {$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$            src_id = -1_$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0$Can you suggest an alternative way to do this, maybe without having 2 different hf fields? _  _ It's the same for dest_cid. _  _ The value is unsigned short, but specifically MAX_USHORT should be displayed as -1. All the other values should be unsigned._
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$        } else {$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$            src_id = -1_$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0$Can you suggest another way to do this? _  _ It's the same for dest_cid. _  _ The value is_
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$        } else {$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$            src_id = -1_$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$1$Great, thanks!_
+epan/dissectors/packet-acdr.c$        if (source_cid < 0xFFFF) {$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$            src_id = source_cid_$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid, tvb, offset, cid_byte_length,$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$        } else {$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$            src_id = -1_$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$            proto_tree_add_item(acdr_tree, hf_acdr_sourceid_negative, tvb, offset, cid_byte_length,$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$                                ENC_BIG_ENDIAN)_$0$You can fully control the display using proto_tree_add_uint_format_value()_
+epan/dissectors/packet-acdr.c$$0$Globals are bad for keeping data of individually dissected packets and dissection is not always guaranteed to go in packet order._
+epan/dissectors/packet-acdr.c$$0$Can you suggest an alternative way to detect missed packets? It looks like this array is used to store the last sequence number for each ip, then the next packet compares against it._
+epan/dissectors/packet-acdr.c$$0$Use ipproto_val_ext instead of recreating a small subset._
+epan/dissectors/packet-acdr.c$$1$Done_
+epan/dissectors/packet-acdr.c$$0$Typically all hf_ are kept together, followed by all ett_, followed by expert_info and dissector_handles/tables.  The hf_ here seem to be interspersed with the value_strings._
+epan/dissectors/packet-acdr.c$$1$Done_
+epan/dissectors/packet-acdr.c$static void$0$This is the function that needs improvement/refactoring so that the dissector table can be used for all cases._
+epan/dissectors/packet-acdr.c$$0$The data dissector should be called here if the dissector table doesn't return any data (once all cases below are handled)_
+epan/dissectors/packet-acdr.c$            break_$0$"If this is still a proprietary plugin, it won't be registered by Wireshark in the dissector table and the data dissector can be called above.  Otherwise this ""media type"" can be registered by the plugin._"
+epan/dissectors/packet-acdr.c$$0$Perhaps a heuristic dissector needs to be created in the RTP dissector for payload and have a similar setup for ACDR as was created for ACDR with JSON in UDP._
+epan/dissectors/packet-acdr.c$$0$Not sure why the current_proto needs to be saved._
+epan/dissectors/packet-acdr.c$$1$Done_
+epan/dissectors/packet-acdr.c$#define PORT_AC_DR 925$0$925 is not officially registered for this port: _ https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=925 _  _ Is there some heuristics that you can use to detect your protocol instead of registering a fixed port number?_
+epan/dissectors/packet-acdr.c$#define PORT_AC_DR 925$0$We don't have any other way. The protocol has no magic number._
+epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0$Setting dissectors like this is probably an misuse of the API, isn't it? _ Likewise below._
+epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0$I'll describe the use-case, and let you suggest an alternative (or approve :)) _  _ Some packet types have an additional IP and UDP headers (wrapped by ACDR). The packet looks like this: _  _  PHY, MAC, IP, UDP, ACDR, IP, UDP, SIP _  _ When the extra header is generated, the ACDR implementation always generates UDP, even if the original packet was TCP. _  _ See for example packet number 2 in the capture attached to the bugreport. _  _ VoiceAI can also has the extra headers. When it does, we want to inform WS that the UDP data in this packet should be decoded as JSON (it's also done for T38 below), but we can't call the JSON dissector directly, because what we pass is IP data. So we set it temporarily, dissect IP, then restore the previous value. _  _ Can you suggest an alternative?_
+epan/dissectors/packet-acdr.c$                                       OldDissectorHandle)_$0$ping?_
+epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$0$"did you mean ""raw data""? there is a TLS dissector fwiw_"
+epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$1$Done_
+epan/dissectors/packet-acdr.c$"                    col_add_fstr(pinfo->cinfo, COL_INFO, ""TLS row data"")_"$0$Regarding the TLS dissector, the data here is not TLS. It's the decrypted data before/after passing TLS (before on Tx, after on Rx)._
+epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0$isn't the XML dissector supposed to to do this?_
+epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0$"Without it, the packet appears as ""AC DR/XML"". With this, it appears as ""XML/XML"". _  _ I'll remove it._"
+epan/dissectors/packet-acdr.c$"                        col_set_str(pinfo->cinfo, COL_PROTOCOL, ""XML"")_"$0$I'll try to check this._
+epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0$I am not sure if you are supposed to query the tree like this_
+epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0$ping_
+epan/dissectors/packet-acdr.c$        if (strncmp(tree->last_child->finfo->hfinfo->name,$0$What should I do then?_
+epan/dissectors/packet-acdr.c$                                   10, &global_acdr_udp_port)_$0$remove this preference, _ dissector_add_uint_with_preference can be used for this (search for other examples in the source tree/documentation)_
+epan/dissectors/packet-acdr.c$                                   10, &global_acdr_udp_port)_$1$Done_
+epan/dissectors/packet-acdr.c$    //	static dissector_handle_t acdr_dissector_handle_$0$there are many commented code like this, can you clean this up throughout the file?_
+epan/dissectors/packet-acdr.c$    //	static dissector_handle_t acdr_dissector_handle_$1$Done_
+epan/dissectors/packet-acdr.c$"                ""t38_udp"")_"$0$"Remove the check for t38, it has been ""t38_udp"" since v1.99.1rc0-591-gf92ed4df2d_"
+epan/dissectors/packet-acdr.c$"                ""t38_udp"")_"$1$Done_
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0$this dissector does not seem to exist, can it be removed? tpncp does exist_
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0$Once https://code.wireshark.org/review/35467 is accepted, this can be removed._
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0$In that case, add a comment describing this situation and clarifying the intent._
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$1$Done_
+epan/dissectors/packet-acdr.c$"        tpncp_dissector_handle = find_dissector(""tpncpm"")_"$0$This is an internal implementation of tpncp provided by a plugin in AC. We might upstream these changes, but for now we prefer to use it if applicable. And even if we do upstream it, we need the option to update the plugin without waiting for WS release._
+epan/dissectors/packet-acdr.c$"        Udp_Dissector_Table = find_dissector_table(""udp.port"")_"$0$the mixed capitalization (Rtp_Dissector_Table, Udp_Dissector_Table) is not consistent, can you use lower-case for them?_
+epan/dissectors/packet-acdr.c$"        Udp_Dissector_Table = find_dissector_table(""udp.port"")_"$1$Done_
+epan/dissectors/packet-acdr.c$}$0$missing modelines, see doc/packet-PROTOABBREV.c and other dissectors for examples, you can take it from https://www.wireshark.org/tools/modelines.html_
+epan/dissectors/packet-acdr.c$}$1$Done_
+epan/dissectors/packet-acdr.c$"    char *str = ""N/A""_"$0$"should this be ""const char *""?_"
+epan/dissectors/packet-acdr.c$"    char *str = ""N/A""_"$1$Done_
+epan/dissectors/packet-acdr.c$"        char *session_ext = """"_"$0$likewise?_
+epan/dissectors/packet-acdr.c$"        char *session_ext = """"_"$1$Done_
+epan/dissectors/packet-xml.c$"    col_set_str(pinfo->cinfo, COL_INFO, ""QOE Event"")_"$0$This knowledge probably does not belong here, should it be added to the ACDR dissector instead?_
+epan/dissectors/packet-xml.c$"    col_set_str(pinfo->cinfo, COL_INFO, ""QOE Event"")_"$1$Done_
+epan/dissectors/packet-acdr.c$        case ACDR_T38:$0$Can you suggest what to do with this one? It's similar to the JSON case..._
+diameter/TGPP.xml$"  <avp name=""Serving-Node-Indication"" code=""714"" mandatory=""must"" vendor-bit=""must"" vendor-id=""TGPP"" may-encrypt=""no"">"$0$missing this..._
+diameter/TGPP.xml$"  <avp name=""Requested-Nodes"" code=""713"" mandatory=""must"" vendor-bit=""must"" vendor-id=""TGPP"" may-encrypt=""no"">"$0$kept tab indent ?_
+epan/dissectors/packet-tls-utils.c$"    { SSL_HND_QUIC_TP_MIN_ACK_DELAY, ""min_ack_delay"" },"$0$move it after loss_bits_
+epan/dissectors/packet-tls-utils.h$#define SSL_HND_QUIC_TP_MIN_ACK_DELAY                       56858$0$This does not seem to be an official codepoint. Please add a comment pointing to the draft._
+debian/control$Recommends: libqt5multimedia5-plugins, libqt5svg5$0$This looks reasonable. For what it's worth, libqt5gui5 already recommends this package: _ https://packages.debian.org/buster/libqt5gui5_
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0$"It looks like ""Recommends"" should work with SUSE and recent distros (Fedora >= 24) _ https://en.opensuse.org/openSUSE:Package_dependencies _ https://unix.stackexchange.com/questions/73690/rpmbuild-is-there-a-way-to-specify-recommended-packages _  _ I am not entirely sure about CentOS though._"
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0$That tag has been introduced in rpm 4.12.0 _  _ https://rpm.org/wiki/Releases/4.12.0 _  _ I'm looking around to find out which rpm version is shipped with latest centos releases (no luck so far). In the meantime, I'm building it on centos7: _  _ https://gitlab.com/crondaemon/wireshark/-/jobs/427755817_
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0$"I changed the ""recommends"" to ""depends"" / ""requires""._"
+packaging/rpm/wireshark.spec.in$Recommends:	qt5-qtsvg$0$The build succeeded, but the package is not installed on CentOS 7 when I use: _  _  yum install epel-release _  yum install wireshark-qt-3.3.0-1.x86_64.rpm wireshark-3.3.0-1.x86_64.rpm _  _  _ Makes sense I guess since rpm --version shows 4.11.3 on CentOS 7._
+ui/qt/main_window_preferences_frame.ui$"    <layout class=""QHBoxLayout"" name=""horizontalLayout_4"">"$0$Don't remove the vertical spacer because it will add space between each item in the window instead of having the space in the bottom._
+ui/qt/main_window_preferences_frame.ui$"    <layout class=""QHBoxLayout"" name=""horizontalLayout_4"">"$1$Good point, hadn't realised this. Will make follow up to put it back._
+tools/rpm-setup.sh$# libqt5-linguist-devel: OpenSUSE$1$Why this? I agree, but I can't recall why it was done this way in the first place._
+tools/rpm-setup.sh$# libqt5-linguist-devel: OpenSUSE$0$It has been like that since the beginning: v2.3.0rc0-1815-g047023d443 _  _ Perhaps you were trying to reproduce the Debian packaging, and started with this package, then realized that more Qt packages were necessary. In any case, Qt 4 support is gone so qt-devel is useless._
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-linguist ||$0$Shouldn't they go into additional?_
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-linguist ||$0$No, when Qt is enabled, this is mandatory as specified in CMakeLists.txt._
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-qtmultimedia-devel ||$0$Additional?_
+tools/rpm-setup.sh$add_package BASIC_LIST qt5-qtmultimedia-devel ||$0$Same as above. While technically you can build with -DBUILD_wireshark=0, that is not the default. _ debain-setup.sh also has Qt in BASIC_LIST._
+tpncp/tpncp.dat$Audiocodes TrunkPack Network Control Protocol (TPNCP) Version L7.20.208.001$0$Please ignore the version. It is up-to-date :)_
+epan/dissectors/asn1/ldap/packet-ldap-template.c$"#define PNAME  ""LDAP: Lightweight Directory Access Protocol"""$0$No, the convention for the long protocol name is that it's the full name, not prefixed by the initialism, and that the short name is the initialism._
+epan/dissectors/packet-canopen.c$$0$Should use SDO_* value.  And if it's SDO_SCS_BLOCK_DOWN or SDO_SCS_BLOCK_UP shouldn't the if check for both?_
+epan/dissectors/packet-canopen.c$$0$Modifying line with: _ if (sdo_cs == SDO_SCS_BLOCK_DOWN || sdo_cs == SDO_CCS_BLOCK_UP) _  _ Prompts compile error (error: logical ‘or’ of equal expressions [-Werror=logical-op]) since both constants have the same values (SCS and CCS are 'reversed' for client and server). _  _ That's the reason why I wrote the constants as comments._
+epan/dissectors/packet-tftp.c$  /* When exporting file object, build up list of data blocks here */$0$Update this comment too._
+epan/dissectors/packet-tftp.c$	gchar    *filename_$0$Need to fix up the whitespace here.  Not my choice, but 2 spaces it is._
+epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0$No iteration here anymore..._
+epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0$I mean that we now already maintain the data in one buffer, whereas before we had a list and had to stitch them together.._
+epan/dissectors/packet-tftp.c$  /* Iterate over list of blocks and concatenate into contiguous memory */$0$I do not understand what you mean_
+epan/dissectors/packet-tftp.c$          tftp_info->payload_data = (guint8 *)g_try_malloc((gsize)tftp_info->file_length)_$0$Who frees this up?_
+epan/dissectors/packet-tftp.c$      payload_data_offset =$0$Add a comment here about copying the data to its place inside payload_data ?_
+ui/qt/packet_list.cpp$    action->setData(QVariant(true))_$0$".setData() has the obvious flaw of not being able to be intention save. Moving setData to a setProperty with the accompanying tag will achieve the same thing, but ensuring, that no mixups can occur. _  _ Please change to: _  _   action->setProperty(""create_new"", QVariant(true))__"
+epan/dissectors/packet-tftp.c$  gboolean     is_simple_file_$0$What does this param mean?  Is it whether or not a heuristic claimed the data payload?  Are you payload dissectors private?_
+epan/dissectors/packet-tftp.c$static gboolean tftp_defragment = FALSE_$0$Maybe a comment here to say that this is a preference value?_
+epan/dissectors/packet-tftp.c$    is_fragmented = !(is_last_package && blocknum == 1)_$1$Add a comment here to say that this is where reassembly is being done._
+epan/dissectors/packet-tftp.c$        tftpfd_head = fragment_add_seq_check(&tftp_reassembly_table, tvb, offset, pinfo,$0$Could you please comment the individual args/params here, particularly that NULL is the 'data' param._
+epan/dissectors/packet-tftp.c$      call_data_dissector(tvb_new_subset_remaining(tvb, offset), pinfo, tree)_$0$Add a comment here to say that this is where reassembly succeeds._
+epan/dissectors/packet-tftp.h$/* packet-tftp.h$0$There are currently no other files including this header file (other than the dissector).  Which (file-type?) dissectors would you expect to claim the file payload data?  Is there a separate change that casts data to this type for display?_
+epan/dissectors/packet-rlc-nr.c$        dissector_handle_t protocol_handle_$0$I get this error here: _  _ /home/martin/wireshark/epan/dissectors/packet-rlc-nr.c:531:28: error: variable ‘protocol_handle’ might be clobbered by ‘longjmp’ or ‘vfork’ [-Werror=clobbered] _          dissector_handle_t protocol_handle_ _  _ Making it volatile made it go away (haven't had to this in a long time).  My gcc is 4.8.5 (2015)._
+epan/dissectors/packet-rlc-nr.c$        dissector_handle_t protocol_handle_$0$Hi Martin, _ thanks for the report, newer gcc versions do not complain that's why I did not spot it. Will you push a change to add it, or do you want me to do it?_
+epan/dissectors/packet-amp.c$ * This program is free software_ you can redistribute it and/or modify$0$Line 10 - 22 can be deleted. It is represented by line 24(SPDX-License-Identifier: GPL-2.0-or-later)_
+epan/dissectors/packet-amp.c$#include <glib.h>$0$Line 28 not needed._
+epan/dissectors/packet-amp.c$add_value_time_to_tree(guint64 value, int len, proto_tree *tree, tvbuff_t *tvb, int offset, int hf_time_format)$0$This routine is not used outside of the file? Then it should be static and line 43 can bew deleted._
+epan/dissectors/packet-amp.c$        amp_message_tree = proto_tree_add_subtree(amp_message_sub_tree, tvb, offset, -1,$0$You might want to use proto_tree_add_bitmask_with_flags() or similar._
+epan/dissectors/packet-amp.c$            amp_register_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0$Do you realy want this line? nesting twice._
+epan/dissectors/packet-amp.c$				(int) tmpObj.uint, ENC_ASCII|ENC_NA)_$0$Use space not tabs._
+epan/dissectors/packet-amp.c$            amp_report_set_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0$Do you realy want this line? nesting twice._
+epan/dissectors/packet-amp.c$				    (int) tmpObj2.uint, ENC_ASCII|ENC_NA)_$0$Use space not tabs._
+epan/dissectors/packet-amp.c$                amp_report_sub_tree = proto_item_add_subtree(amp_report_set_tree, ett_amp)_$0$Do you realy want this line? nesting twice._
+epan/dissectors/packet-amp.c$                amp_ari_sub_tree = proto_item_add_subtree(amp_report_tree, ett_amp)_$0$Do you realy want this line? nesting twice._
+epan/dissectors/packet-amp.c$                    proto_tree_add_uint(amp_ari_tree, hf_ari_nickname, tvb, offset, 1, ariFlags)_$0$You might want to use proto_tree_add_bitmask_with_flags() or similar._
+epan/dissectors/packet-amp.c$                amp_tnvc_tree = proto_tree_add_subtree(amp_tnvc_sub_tree, tvb, offset, -1,$0$You might want to use proto_tree_add_bitmask_with_flags() or similar._
+epan/dissectors/packet-amp.c$					(int) tmpObj3.uint-tmpObj4.size, 0x00)_$0$Use space, not tab._
+epan/dissectors/packet-amp.c$            amp_control_sub_tree = proto_item_add_subtree(amp_message_tree, ett_amp)_$0$Do you realy want this line? nesting twice._
+epan/dissectors/packet-amp.c$            amp_table_sub_tree = proto_item_add_subtree(amp_items_tree, ett_amp)_$0$Do you realy want this line? nesting twice._
+epan/dissectors/packet-amp.c$ */$0$Line 10 - 22 Use _ SPDX-License-Identifier: GPL-2.0-or-later _ as in the other files._
+epan/dissectors/packet-amp.c$        ampHeader = tvb_get_guint8(tvb, offset)_$0$For this section use one of the _ proto_tree_add_bitmask_list... functions? _ (proto_tree_add_bitmask_ret_uint64?) _ Can be used other places too._
+epan/dissectors/packet-amp.c$"        { ""Reserved"", ""tnvc.reserved"","$0$Tnvc ?_
+epan/dissectors/packet-cfdp.c$    first_byte = tvb_get_guint8(tvb, offset)_$0$Why fetch the value, use proto_tree_add_item() or one of the proto_tree_add_bitmask() function (see proto.h)_
+epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0$Why not keep the case statments in numerical order?_
+epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0$They are not all in numerical order, as then you couldn't use fall-throguh statements as we do in order to avoid code duplication.  Hoewver, in this specific example, we could actually move this block further below to at least keep the majority in-order._
+epan/dissectors/packet-gsm_abis_om2000.c$		case 0xa8:$0$I wanted to modify the patch, but I realized that in fact it is correct as-is:  All the specific dissectors (with hf_... field) are here, in ascending order of switch values.  Below this block, starting from 0xa3, are the dissectors for unknown information elements, which by their nature use fall-through clauses as we only differentiate based on structure of encoding._
+epan/dissectors/packet-lldp.c$"	dissector_add_uint(""ethertype"", ETHERTYPE_ONOS, lldp_handle)_ /* ONOS Ether Type */"$0$The comment is now a bit superfluous, isn't it?_
+epan/dissectors/packet-lldp.c$"	dissector_add_uint(""ethertype"", ETHERTYPE_ONOS, lldp_handle)_ /* ONOS Ether Type */"$1$Done_
+CMakeLists.txt$"	URL ""www.kernel.org"""$0$A scheme (i.e., https) for this URI would be desirable, or rather a more specific URL, i.e., https://git.kernel.org/pub/scm/libs/libcap/libcap.git_
+CMakeLists.txt$"	URL ""www.kernel.org"""$1$Sounds good to me too._
+CMakeLists.txt$"	URL ""www.kernel.org"""$0$"I'm not sure about having git links here. Basically, as far as I can tell, those are links to give the developer a general link about what we're talking about, not a ""clone"" link. If I were in a new devel's shoes, and I read that libVERYFUN is missing, I would prefer having a link to www.veryfun.com than a link to git.hoster.com/projects/blabla/x/veryfun.git. What do you think? _  _ Anyway, no matter which road we want to take, I think that all links should stick with that policy the same way._"
+CMakeLists.txt$"	URL ""www.kernel.org"""$0$"https: ok. _ git: there is actually a mix of ""root"" links (as spandsp) and git ones (as SBC). What would be more desirable?_"
+CMakeLists.txt$"	URL ""www.kernel.org"""$0$The link actually gives the most relevant information when accessed through web browser, i.e. on the about page, much more to the point than generic kernel.org._
+CMakeLists.txt$"	URL ""www.kernel.org"""$1$Consider linking to https://sites.google.com/site/fullycapable/ _ This is done by Arch Linux, see https://www.archlinux.org/packages/core/x86_64/libcap/ _ and is mentioned in the README https://git.kernel.org/pub/scm/libs/libcap/libcap.git/tree/README_
+CMakeLists.txt$"	URL ""www.kernel.org"""$1$Sounds good._
+CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0$"Let's make this less cryptic: _  _  ""Allow packet captures without running as root""_"
+CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0$That has been copy&pasted by the original library description found everywhere, like here: https://directory.fsf.org/wiki/Libcap. I can agree that that can be cryptic, but at least that's what they provide, not us._
+CMakeLists.txt$"	PURPOSE ""These capabilities are a partitioning of the all powerful root privilege into a set of distinct privileges"""$0$But we describe the use for _our_ purpose, or at least that's what all the other package properties do. So keeping in line with that the suggestion of Peter is fitting here._
+extcap.c$         * pipe has been closed before writing the to the pipe.$0$Could you please fix the typos in this comment?_
+epan/dissectors/packet-tnef.c$"        proto_item_append_text(prop_item, "" %s"", name_string)_"$0$"this is not the same as before. Previously it was: _  _  [Named Property: ...] _  _ Suggestion: if it is NULL, use ""unknown"": _  _  proto_item_append_text(prop_item, "" [Named Property: %s]"", name_string ? name_string : ""Unknown"")__"
+epan/dissectors/packet-tnef.c$"        proto_item_append_text(prop_item, "" %s"", name_string)_"$0$"The former code was like _  _ if name_string _   print(""[Named Properry]"") _ else _   print(""[Named Property: %s]"", property _  _ I've changed it to _  _ print(""[Named Property"") _ if name_string _   print("": %s"", property) _ print(""]"") _  _ that should resemble it, unless I'm missing something big. _ (actually the colon was missing, but I'm adding it)._"
+epan/dissectors/packet-gsm_a_bssmap.c$    }$0$The string is now taken from gsm_a_bssap_cause_rvals[], so should be retrieved from there, not simply dropped._
+epan/dissectors/packet-gsm_a_bssmap.c$    }$1$Done_
+epan/dissectors/packet-tnef.c$        tag_length = tvb_get_letohl(tvb, offset)_$0$This seems to be relevant for the original author, so this should stay in._
+epan/dissectors/packet-tnef.c$        tag_length = tvb_get_letohl(tvb, offset)_$0$Actually this text has not been removed. It has just been moved in line 391._
+epan/dissectors/packet-tnef.c$          proto_tree_add_item(tag_tree, hf_tnef_property_padding, tvb, offset, padding, ENC_NA)_$0$This is where the name is supposed to come from. It originally was retrieved as a string and subsequently added as a value. Maybe you can convert this into a call the returns the desired string value, so that is can be appended._
+epan/dissectors/packet-tnef.c$          proto_tree_add_item(tag_tree, hf_tnef_property_padding, tvb, offset, padding, ENC_NA)_$0$Ok. I will get it from here and add it in line 391._
+epan/dissectors/packet-tnef.c$      /* handle any specific tags here */$0$This also seems to be relevant for the author, so this should stay in._
+plugins/epan/mate/mate_runtime.c$"				dbg_print (dbg_gog,1,dbg_facility,""analyze_gop: no gogkey_match: %s"",key)_"$0$This will never be executed, will it?_
+plugins/epan/mate/mate_runtime.c$"				dbg_print (dbg_gog,1,dbg_facility,""analyze_gop: no gogkey_match: %s"",key)_"$1$Well, no, you're right._
+ui/qt/interface_frame.cpp$"            ""</p><p>"""$0$"Why remove this line? _  _ I usually run Wireshark without NPcap installed, just using extcap interfaces. Bringing back this line removes the warning for me. Shall ""extcap only"" be considered ""good"" or ""warning""?_"
+epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0$hf_rdm_pd_ack_overflow_uid is now unused and could be removed. Moreover you should not reuse parameter_data_raw as the filter does not match this function (add a hf_rdm_pd_ack_overflow_data). _ Is adding the real dissection complex?_
+epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0$OK until that happens, let's get rid of the now unused hf variable and let's add a new hf variable with a meaningful filter name for this packet type._
+epan/dissectors/packet-rdm.c$			proto_tree_add_item(tree, hf_rdm_parameter_data_raw, tvb, offset, pdl, ENC_NA)_$0$The real solution is not trivial because it includes combining data from several UDP packets and I am not yet sure how to do that. The protocol sends ack-overflow packets until the remaining data fits than it sends an ack message. To dissect the data one would need the complete data. So that is a bigger change that I will need some time for to figure out.   _  _ But I got bug report about the wrong checksum, so the way it is now is completely wrong, so better to just have raw bytes than incorrect info._
+epan/dissectors/packet-ber.c$    if ((len > 9) || ((len == 9) && (first != 0))) {$0$(2) here_
+epan/dissectors/packet-ber.c$        if ((len < 1) || (len > 9) || ((len == 9) && (first != 0))) {$0$Will not this check cause the FT_BYTES to end up here?_
+epan/dissectors/packet-ber.c$        if ((len < 1) || (len > 9) || ((len == 9) && (first != 0))) {$0$(1) no, the condition above is triggered first. We can end up here if len==0. _  _ If len is between 1 and 8, then the case below can be triggered. That is why the first patch set failed tests._
+epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0$I guess the comment is a bit confusing here: it suggest that this code could be called when the integer value > 64 bits, which is not the case (the HF definition is using FT_BYTES as it can be > 64 bits in theory, but that's not the case here)._
+epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0$"I was about to change the comment to: _  _                 /* _                  * Some protocols have INTEGER fields that can store values _                  * larger than 64 bits and therefore have to use FT_BYTES. _                  * Values larger than 64 bits are handled above while smaller _                  * values are handled here. _                  */ _  _ but realized that the above case adds a field with a ""0x"" prefix while the smaller case here does not do that. For consistency I suppose that either 0x has to be present for all byte types, or it should be removed. Any suggestion?_"
+epan/dissectors/packet-ber.c$                 * use FT_BYTES in order to be able to display these. */$0$Yes prepending 0x makes sense to make it obvious we are displaying an hexadecimal number._
+tools/macos-setup-brew.sh$brew install c-ares glib libgcrypt gnutls lua@5.1 cmake python nghttp2 snappy lz4 libxml2 ninja libmaxminddb doxygen libsmi spandsp brotli minizip zstd libilbc$1$We need to update macos-setup.sh as well, since that's what we use on the macOS builder._
+plugins/codecs/iLBC/CMakeLists.txt$set(CODEC_SRC$0$all other codecs plugins are named in small letters. Should we rename it to ilbc?_
+plugins/codecs/iLBC/CMakeLists.txt$set(CODEC_SRC$0$I think so, yes._
+tools/debian-setup.sh$add_package ADDITIONAL_LIST libilbc-dev ||$0$A comment indicating where this package can be found would help, since it's not in the official repos._
+cmake/modules/FindILBC.cmake$"    ""${ILBC_HINTS}/include"""$0$Why iLBC_decode.h? Should not it be ilbc.h (the file you include in iLBCdecode.c)?_
+plugins/codecs/iLBC/iLBCdecode.c$    WebRtc_Word16 *dataIn  = (WebRtc_Word16 *)inputBytes_$0$As seen in https://github.com/TimothyGu/libilbc/blob/master/ilbc/interface/ilbc.h, the interface is using int16_T and not the undefined WebRtc_Word16 type_
+plugins/codecs/iLBC/iLBCdecode.c$    WebRtc_Word16 *dataIn  = (WebRtc_Word16 *)inputBytes_$0$I'm using library from Fedora Core 31 ilbc-devel-1.1.1. It says it is packaged https://github.com/TimothyGu/libilbc. _ I found now that there are several releases of ilbc - 1.x and 2.x. It looks that 1.x use different types for calls than 2.x. _ Should I handle it with some kind of #define?_
+tools/debian-setup.sh$"	libilbc-dev"""$0$It should not be here. Those are ever-present packages. See below for packages present from a certain version on or with different names. It fails on older ubuntu versions: _  _ E: Unable to locate package libilbc-dev_
+tools/rpm-setup.sh$add_package ADDITIONAL_LIST ilbc-devel || add_package ADDITIONAL_LIST ilbc-devel ||$0$It's a repetition, isn't it? Make it one._
+plugins/codecs/iLBC/iLBCdecode.c$    //iLBC_decinst_t *ctx_$0$please remove unused code instead of commenting it_
+plugins/codecs/iLBC/iLBCdecode.c$codec_iLBC_release(void *ctx _U_)$0$ctx is used, so remove the _U__
+plugins/codecs/iLBC/iLBCdecode.c$    WebRtcIlbcfix_DecoderFree(((ilbc_ctx_t *)ctx)->ilbc_ctx)_$0$ctx is not freed?_
+plugins/codecs/iLBC/iLBCdecode.c$codec_iLBC_decode(void *ctx _U_, const void *inputBytes, size_t inputBytesSize,$0$ctx is used, so remove the _U__
+plugins/codecs/iLBC/iLBCdecode.c$    } else if (0 == inputBytesSize%ILBC_PAYLOAD_LEN_30MS) {$0$so what happens if inputBytesSize changes for a given stream (because of a malformed packet for example)? Should we skip the sample if the decoder was already initialized?_
+plugins/codecs/iLBC/iLBCdecode.c$    } else if (0 == inputBytesSize%ILBC_PAYLOAD_LEN_30MS) {$0$Wireshark shares codecs during decoding. It may happen that _decode is called twice in row, each call with different payload size. Therefore ctx do not hold packet size of last call. BTW library is OK with it. _ For that reason Decoder is initialized for every packet/call (see _DecoderInit in _decode). _  _ If payload length do not match 20/30ms, code just ignores it._
+epan/proto.c$		case ENC_TIME_CLASSIC_MAC_OS_SECS|ENC_LITTLE_ENDIAN:$0$Shouldn't this be ENC_BIG_ENDIAN? _  _ Otherwise dissect_mp4_mvhd_body() reaches the default case in this switch._
+epan/proto.c$		case ENC_TIME_CLASSIC_MAC_OS_SECS|ENC_LITTLE_ENDIAN:$0$Yes._
+packaging/rpm/wireshark.spec.in$* Sun Jan 19 2019 Jiri Novak$0$Should not it be Sun Jan 19 2020 at the previous place? _ Why put it between August and November 2019?_
+ui/io_graph_item.c$#define get_io_graph_item_advanced_FT_xINT_unit(datatype)   \$0$Using macros makes the code more compacet but less friendly for debugging.  _  _ I think for *_CALC_AVERAGE the use of guint64 instead of gint64 is preferred in case of an unsigned 64 bit integer._
+ui/io_graph_item.c$            //shift left to take the sign bit into account durch conversion$0$"Typo in comment: ""durch"" should be ""during""_"
+ui/io_graph_item.c$            //shift left to take the sign bit into account durch conversion$0$Is this translation needed for unsigned quantities? Would it be possible just to use a 0x00ffffff mask?_
+ui/io_graph_item.c$            //undo the left shift by dividing by 256$0$Is this translation needed for unsigned quantities? Would it be possible just to use a 0x00ffffff mask?_
